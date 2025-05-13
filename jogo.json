@@ -1,0 +1,354 @@
+{
+    "questoes": [
+        {
+            "pergunta": "Qual é a capital do Brasil?",
+            "alternativas": [
+                "São Paulo",
+                "Brasília",
+                "Rio de Janeiro",
+                "Salvador"
+            ],
+            "resposta": "Brasília"
+        },
+        {
+            "pergunta": "Quem descobriu o Brasil?",
+            "alternativas": [
+                "Dom Pedro I",
+                "Cristóvão Colombo",
+                "Pedro Álvares Cabral",
+                "Tiradentes"
+            ],
+            "resposta": "Pedro Álvares Cabral"
+        },
+        {
+            "pergunta": "Qual é o maior estado do Brasil em extensão territorial?",
+            "alternativas": [
+                "Amazonas",
+                "Pará",
+                "Mato Grosso",
+                "Minas Gerais"
+            ],
+            "resposta": "Amazonas"
+        },
+        {
+            "pergunta": "Quantos estados tem o Brasil?",
+            "alternativas": [
+                "25",
+                "26",
+                "27",
+                "28"
+            ],
+            "resposta": "26"
+        },
+        {
+            "pergunta": "Qual é a moeda oficial do Brasil?",
+            "alternativas": [
+                "Peso",
+                "Dólar",
+                "Real",
+                "Cruzeiro"
+            ],
+            "resposta": "Real"
+        },
+        {
+            "pergunta": "Qual é a língua oficial do Brasil?",
+            "alternativas": [
+                "Espanhol",
+                "Português",
+                "Inglês",
+                "Latim"
+            ],
+            "resposta": "Português"
+        },
+        {
+            "pergunta": "Em que ano o Brasil se tornou independente?",
+            "alternativas": [
+                "1500",
+                "1822",
+                "1889",
+                "1808"
+            ],
+            "resposta": "1822"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente do Brasil?",
+            "alternativas": [
+                "Getúlio Vargas",
+                "Deodoro da Fonseca",
+                "Juscelino Kubitschek",
+                "Floriano Peixoto"
+            ],
+            "resposta": "Deodoro da Fonseca"
+        },
+        {
+            "pergunta": "Qual é o bioma predominante no Norte do Brasil?",
+            "alternativas": [
+                "Cerrado",
+                "Mata Atlântica",
+                "Pantanal",
+                "Amazônia"
+            ],
+            "resposta": "Amazônia"
+        },
+        {
+            "pergunta": "O que é o Cristo Redentor?",
+            "alternativas": [
+                "Estátua",
+                "Museu",
+                "Igreja",
+                "Praia"
+            ],
+            "resposta": "Estátua"
+        },
+        {
+            "pergunta": "Qual cidade brasileira é conhecida como 'Cidade Maravilhosa'?",
+            "alternativas": [
+                "São Paulo",
+                "Rio de Janeiro",
+                "Salvador",
+                "Belo Horizonte"
+            ],
+            "resposta": "Rio de Janeiro"
+        },
+        {
+            "pergunta": "Qual é o principal rio da Região Norte do Brasil?",
+            "alternativas": [
+                "Rio São Francisco",
+                "Rio Paraná",
+                "Rio Tietê",
+                "Rio Amazonas"
+            ],
+            "resposta": "Rio Amazonas"
+        },
+        {
+            "pergunta": "Qual é o nome do hino oficial do Brasil?",
+            "alternativas": [
+                "Hino Nacional",
+                "Hino da Independência",
+                "Hino à Bandeira",
+                "Hino da República"
+            ],
+            "resposta": "Hino Nacional"
+        },
+        {
+            "pergunta": "Qual a maior cidade do Brasil em população?",
+            "alternativas": [
+                "Brasília",
+                "Rio de Janeiro",
+                "Salvador",
+                "São Paulo"
+            ],
+            "resposta": "São Paulo"
+        },
+        {
+            "pergunta": "Qual é o estado mais populoso do Brasil?",
+            "alternativas": [
+                "Bahia",
+                "Minas Gerais",
+                "Rio de Janeiro",
+                "São Paulo"
+            ],
+            "resposta": "São Paulo"
+        },
+        {
+            "pergunta": "O Pantanal está principalmente em qual estado?",
+            "alternativas": [
+                "Paraná",
+                "Mato Grosso do Sul",
+                "Amazonas",
+                "Tocantins"
+            ],
+            "resposta": "Mato Grosso do Sul"
+        },
+        {
+            "pergunta": "Qual é o principal produto de exportação do Brasil?",
+            "alternativas": [
+                "Café",
+                "Soja",
+                "Petróleo",
+                "Carne bovina"
+            ],
+            "resposta": "Soja"
+        },
+        {
+            "pergunta": "Quem foi Tiradentes?",
+            "alternativas": [
+                "Presidente",
+                "Poeta",
+                "Revolucionário",
+                "Escritor"
+            ],
+            "resposta": "Revolucionário"
+        },
+        {
+            "pergunta": "Quando ocorreu a proclamação da República no Brasil?",
+            "alternativas": [
+                "1822",
+                "1889",
+                "1922",
+                "1500"
+            ],
+            "resposta": "1889"
+        },
+        {
+            "pergunta": "Quantas regiões o Brasil possui?",
+            "alternativas": [
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "resposta": "5"
+        },
+        {
+            "pergunta": "Quem é o autor de 'Os Sertões'?",
+            "alternativas": [
+                "Machado de Assis",
+                "Euclides da Cunha",
+                "Carlos Drummond",
+                "Monteiro Lobato"
+            ],
+            "resposta": "Euclides da Cunha"
+        },
+        {
+            "pergunta": "O que é o BNDES?",
+            "alternativas": [
+                "Banco Nacional de Desenvolvimento Econômico e Social",
+                "Banco do Nordeste",
+                "Banco Nacional de Empresas",
+                "Bolsa de Negócios e Desenvolvimento"
+            ],
+            "resposta": "Banco Nacional de Desenvolvimento Econômico e Social"
+        },
+        {
+            "pergunta": "Qual dessas cidades NÃO é capital de estado?",
+            "alternativas": [
+                "Natal",
+                "Campinas",
+                "Porto Alegre",
+                "Recife"
+            ],
+            "resposta": "Campinas"
+        },
+        {
+            "pergunta": "O que significa SUS?",
+            "alternativas": [
+                "Serviço Único de Saúde",
+                "Sistema Universal de Saúde",
+                "Sistema Único de Saúde",
+                "Setor Urbano de Saúde"
+            ],
+            "resposta": "Sistema Único de Saúde"
+        },
+        {
+            "pergunta": "Qual é a sigla da moeda brasileira?",
+            "alternativas": [
+                "BR$",
+                "R$",
+                "B$",
+                "RL$"
+            ],
+            "resposta": "R$"
+        },
+        {
+            "pergunta": "Qual a maior floresta tropical do mundo?",
+            "alternativas": [
+                "Mata Atlântica",
+                "Floresta Amazônica",
+                "Floresta do Congo",
+                "Floresta do Pantanal"
+            ],
+            "resposta": "Floresta Amazônica"
+        },
+        {
+            "pergunta": "Qual time brasileiro tem mais títulos da Libertadores (até 2024)?",
+            "alternativas": [
+                "São Paulo",
+                "Grêmio",
+                "Palmeiras",
+                "Flamengo"
+            ],
+            "resposta": "Palmeiras"
+        },
+        {
+            "pergunta": "Em qual estado fica a Chapada Diamantina?",
+            "alternativas": [
+                "Minas Gerais",
+                "Bahia",
+                "Goiás",
+                "Mato Grosso"
+            ],
+            "resposta": "Bahia"
+        },
+        {
+            "pergunta": "Qual dessas festas é reconhecida como Patrimônio Cultural Imaterial do Brasil?",
+            "alternativas": [
+                "Carnaval",
+                "Festa Junina",
+                "Natal",
+                "Ano Novo"
+            ],
+            "resposta": "Carnaval"
+        },
+        {
+            "pergunta": "Qual é o nome do atual presidente do Brasil (2025)?",
+            "alternativas": [
+                "Jair Bolsonaro",
+                "Michel Temer",
+                "Lula",
+                "Dilma Rousseff"
+            ],
+            "resposta": "Lula"
+        },
+        {
+            "pergunta": "Qual o nome da primeira novela brasileira exibida em cores?",
+            "alternativas": [
+                "O Bem-Amado",
+                "Roque Santeiro",
+                "Selva de Pedra",
+                "Gabriela"
+            ],
+            "resposta": "O Bem-Amado"
+        },
+        {
+            "pergunta": "Quantas estrelas estão na bandeira do Brasil?",
+            "alternativas": [
+                "26",
+                "27",
+                "28",
+                "25"
+            ],
+            "resposta": "27"
+        },
+        {
+            "pergunta": "Qual desses estados brasileiros faz parte da Região Centro-Oeste?",
+            "alternativas": [
+                "Bahia",
+                "Goiás",
+                "Pará",
+                "Ceará"
+            ],
+            "resposta": "Goiás"
+        },
+        {
+            "pergunta": "Qual é o ponto mais alto do Brasil?",
+            "alternativas": [
+                "Pico da Neblina",
+                "Pico do Itatiaia",
+                "Pico das Agulhas Negras",
+                "Monte Roraima"
+            ],
+            "resposta": "Pico da Neblina"
+        },
+        {
+            "pergunta": "Qual é o feriado que celebra a independência do Brasil?",
+            "alternativas": [
+                "7 de Setembro",
+                "15 de Novembro",
+                "21 de Abril",
+                "12 de Outubro"
+            ],
+            "resposta": "7 de Setembro"
+        }
+    ]
+}
