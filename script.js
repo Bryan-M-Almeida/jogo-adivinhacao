@@ -17,8 +17,8 @@ const certos = document.querySelector(".acertos");
 /* erros */
 const erro = document.querySelector(".erros")
 /* questão */
-let questaoIndex = Math.floor(Math.random()*35);
-
+let questaoIndex = Math.floor(Math.random() * 538);
+console.log(questaoIndex)
 
 fetch('jogo.json')
     .then(response => response.json())
@@ -45,7 +45,6 @@ fetch('jogo.json')
                         let vidaAtual = parseInt(vida.innerHTML);
 
                         /* acertos */
-                        let acertos = 0;
                         let acertosAtuais = parseInt(certos.innerHTML);
                         acertosAtuais += 1;
                         certos.innerHTML = acertosAtuais;
@@ -66,7 +65,6 @@ fetch('jogo.json')
 
 
                     else {
-                        let erros = 0;
                         let errosAtuais = parseInt(erro.innerHTML);
                         errosAtuais += 1;
                         erro.innerHTML = errosAtuais;
@@ -82,11 +80,14 @@ fetch('jogo.json')
     });
 
 function carregarQuestao(index, data) {
-    if (index > 34) {
-        index -= 34;
-    } else if  (index < 0) {
-        index+=34;
+    if (index >= data.questoes.length) {
+        index -= 0;
+    } else if (index < 0) {
+        index = data.questoes.length - 1;
     }
+
+    questaoIndex = index;
+
     questao.innerHTML = data.questoes[index].pergunta;
     respostas.forEach((element, i) => {
         element.innerHTML = data.questoes[index].alternativas[i];
@@ -96,6 +97,7 @@ function carregarQuestao(index, data) {
 }
 
 
+
 setInterval(() => {
     document.querySelector('.vida').style.width = vida.innerHTML + "%";
-}, 0);
+}, 100);

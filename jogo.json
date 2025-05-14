@@ -349,6 +349,5036 @@
                 "12 de Outubro"
             ],
             "resposta": "7 de Setembro"
+        },
+        {
+            "pergunta": "Quem é o vilão principal em 'Vingadores: Guerra Infinita'?",
+            "alternativas": [
+                "Loki",
+                "Ultron",
+                "Thanos",
+                "Hela"
+            ],
+            "resposta": "Thanos"
+        },
+        {
+            "pergunta": "Qual é o nome verdadeiro do Batman?",
+            "alternativas": [
+                "Bruce Wayne",
+                "Clark Kent",
+                "Peter Parker",
+                "Tony Stark"
+            ],
+            "resposta": "Bruce Wayne"
+        },
+        {
+            "pergunta": "Em qual cidade se passa a série 'Stranger Things'?",
+            "alternativas": [
+                "Hawkins",
+                "Springfield",
+                "Gotham",
+                "Riverdale"
+            ],
+            "resposta": "Hawkins"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro jogo da franquia 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Qual Pokémon é o número #001 na Pokédex?",
+            "alternativas": [
+                "Pikachu",
+                "Bulbasaur",
+                "Charmander",
+                "Squirtle"
+            ],
+            "resposta": "Bulbasaur"
+        },
+        {
+            "pergunta": "Qual é o protagonista da série 'The Witcher'?",
+            "alternativas": [
+                "Geraldo",
+                "Geralt",
+                "Ganon",
+                "Gandalf"
+            ],
+            "resposta": "Geralt"
+        },
+        {
+            "pergunta": "Quem foi o imperador francês que se tornou famoso por suas conquistas militares?",
+            "alternativas": [
+                "Luís XIV",
+                "Napoleão Bonaparte",
+                "Carlos Magno",
+                "Robespierre"
+            ],
+            "resposta": "Napoleão Bonaparte"
+        },
+        {
+            "pergunta": "Em que ano caiu o Muro de Berlim?",
+            "alternativas": [
+                "1987",
+                "1988",
+                "1989",
+                "1990"
+            ],
+            "resposta": "1989"
+        },
+        {
+            "pergunta": "Quem descobriu a América em 1492?",
+            "alternativas": [
+                "Cristóvão Colombo",
+                "Américo Vespúcio",
+                "Marco Polo",
+                "Ferdinando Magalhães"
+            ],
+            "resposta": "Cristóvão Colombo"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Qual é o país com a maior população do mundo?",
+            "alternativas": [
+                "Índia",
+                "China",
+                "Estados Unidos",
+                "Indonésia"
+            ],
+            "resposta": "Índia"
+        },
+        {
+            "pergunta": "Qual é o elemento químico com símbolo 'O'?",
+            "alternativas": [
+                "Ouro",
+                "Osmium",
+                "Oxigênio",
+                "Óxido"
+            ],
+            "resposta": "Oxigênio"
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+            "alternativas": [
+                "Júpiter",
+                "Vênus",
+                "Marte",
+                "Saturno"
+            ],
+            "resposta": "Marte"
+        },
+        {
+            "pergunta": "Qual é a capital do Japão?",
+            "alternativas": [
+                "Quioto",
+                "Osaka",
+                "Tóquio",
+                "Hiroshima"
+            ],
+            "resposta": "Tóquio"
+        },
+        {
+            "pergunta": "Qual é o maior animal terrestre?",
+            "alternativas": [
+                "Elefante-africano",
+                "Girafa",
+                "Urso-pardo",
+                "Hipopótamo"
+            ],
+            "resposta": "Elefante-africano"
+        },
+        {
+            "pergunta": "Em qual cidade se passa a série 'Stranger Things'?",
+            "alternativas": [
+                "Hawkins",
+                "Springfield",
+                "Gotham",
+                "Riverdale"
+            ],
+            "resposta": "Hawkins"
+        },
+        {
+            "pergunta": "Em que ano foi lançado 'Super Mario Bros.'?",
+            "alternativas": [
+                "1983",
+                "1984",
+                "1985",
+                "1986"
+            ],
+            "resposta": "1985"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente dos EUA?",
+            "alternativas": [
+                "Lincoln",
+                "Washington",
+                "Jefferson",
+                "Roosevelt"
+            ],
+            "resposta": "Washington"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente dos EUA?",
+            "alternativas": [
+                "Lincoln",
+                "Washington",
+                "Jefferson",
+                "Roosevelt"
+            ],
+            "resposta": "Washington"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+            "alternativas": [
+                "Júpiter",
+                "Vênus",
+                "Marte",
+                "Saturno"
+            ],
+            "resposta": "Marte"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Em que ano caiu o Muro de Berlim?",
+            "alternativas": [
+                "1987",
+                "1988",
+                "1989",
+                "1990"
+            ],
+            "resposta": "1989"
+        },
+        {
+            "pergunta": "Qual é o elemento químico com símbolo 'O'?",
+            "alternativas": [
+                "Ouro",
+                "Osmium",
+                "Oxigênio",
+                "Óxido"
+            ],
+            "resposta": "Oxigênio"
+        },
+        {
+            "pergunta": "Qual é o nome do planeta de 'Halo'?",
+            "alternativas": [
+                "Terra",
+                "Reach",
+                "Zion",
+                "Pandora"
+            ],
+            "resposta": "Reach"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Em que ano caiu o Muro de Berlim?",
+            "alternativas": [
+                "1987",
+                "1988",
+                "1989",
+                "1990"
+            ],
+            "resposta": "1989"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente dos EUA?",
+            "alternativas": [
+                "Lincoln",
+                "Washington",
+                "Jefferson",
+                "Roosevelt"
+            ],
+            "resposta": "Washington"
+        },
+        {
+            "pergunta": "Qual é a capital do Japão?",
+            "alternativas": [
+                "Quioto",
+                "Osaka",
+                "Tóquio",
+                "Hiroshima"
+            ],
+            "resposta": "Tóquio"
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+            "alternativas": [
+                "Júpiter",
+                "Vênus",
+                "Marte",
+                "Saturno"
+            ],
+            "resposta": "Marte"
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+            "alternativas": [
+                "Júpiter",
+                "Vênus",
+                "Marte",
+                "Saturno"
+            ],
+            "resposta": "Marte"
+        },
+        {
+            "pergunta": "Quantos planetas existem no Sistema Solar?",
+            "alternativas": [
+                "7",
+                "8",
+                "9",
+                "10"
+            ],
+            "resposta": "8"
+        },
+        {
+            "pergunta": "Quem descobriu a América em 1492?",
+            "alternativas": [
+                "Colombo",
+                "Vespúcio",
+                "Polo",
+                "Magalhães"
+            ],
+            "resposta": "Colombo"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Qual é o protagonista da série 'The Witcher'?",
+            "alternativas": [
+                "Geraldo",
+                "Geralt",
+                "Ganon",
+                "Gandalf"
+            ],
+            "resposta": "Geralt"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Qual é o nome do planeta de 'Halo'?",
+            "alternativas": [
+                "Terra",
+                "Reach",
+                "Zion",
+                "Pandora"
+            ],
+            "resposta": "Reach"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente dos EUA?",
+            "alternativas": [
+                "Lincoln",
+                "Washington",
+                "Jefferson",
+                "Roosevelt"
+            ],
+            "resposta": "Washington"
+        },
+        {
+            "pergunta": "Qual é o maior animal terrestre?",
+            "alternativas": [
+                "Elefante-africano",
+                "Girafa",
+                "Urso",
+                "Hipopótamo"
+            ],
+            "resposta": "Elefante-africano"
+        },
+        {
+            "pergunta": "Qual é o nome do planeta de 'Halo'?",
+            "alternativas": [
+                "Terra",
+                "Reach",
+                "Zion",
+                "Pandora"
+            ],
+            "resposta": "Reach"
+        },
+        {
+            "pergunta": "Qual é o protagonista da série 'The Witcher'?",
+            "alternativas": [
+                "Geraldo",
+                "Geralt",
+                "Ganon",
+                "Gandalf"
+            ],
+            "resposta": "Geralt"
+        },
+        {
+            "pergunta": "Em que ano foi lançado 'Super Mario Bros.'?",
+            "alternativas": [
+                "1983",
+                "1984",
+                "1985",
+                "1986"
+            ],
+            "resposta": "1985"
+        },
+        {
+            "pergunta": "Qual é o maior animal terrestre?",
+            "alternativas": [
+                "Elefante-africano",
+                "Girafa",
+                "Urso",
+                "Hipopótamo"
+            ],
+            "resposta": "Elefante-africano"
+        },
+        {
+            "pergunta": "Em que ano caiu o Muro de Berlim?",
+            "alternativas": [
+                "1987",
+                "1988",
+                "1989",
+                "1990"
+            ],
+            "resposta": "1989"
+        },
+        {
+            "pergunta": "Quantos planetas existem no Sistema Solar?",
+            "alternativas": [
+                "7",
+                "8",
+                "9",
+                "10"
+            ],
+            "resposta": "8"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Em qual cidade se passa a série 'Stranger Things'?",
+            "alternativas": [
+                "Hawkins",
+                "Springfield",
+                "Gotham",
+                "Riverdale"
+            ],
+            "resposta": "Hawkins"
+        },
+        {
+            "pergunta": "Qual é o maior animal terrestre?",
+            "alternativas": [
+                "Elefante-africano",
+                "Girafa",
+                "Urso",
+                "Hipopótamo"
+            ],
+            "resposta": "Elefante-africano"
+        },
+        {
+            "pergunta": "Qual é a capital do Japão?",
+            "alternativas": [
+                "Quioto",
+                "Osaka",
+                "Tóquio",
+                "Hiroshima"
+            ],
+            "resposta": "Tóquio"
+        },
+        {
+            "pergunta": "Qual é o elemento químico com símbolo 'O'?",
+            "alternativas": [
+                "Ouro",
+                "Osmium",
+                "Oxigênio",
+                "Óxido"
+            ],
+            "resposta": "Oxigênio"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Qual é o nome verdadeiro do Batman?",
+            "alternativas": [
+                "Bruce Wayne",
+                "Clark Kent",
+                "Peter Parker",
+                "Tony Stark"
+            ],
+            "resposta": "Bruce Wayne"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+            "alternativas": [
+                "Júpiter",
+                "Vênus",
+                "Marte",
+                "Saturno"
+            ],
+            "resposta": "Marte"
+        },
+        {
+            "pergunta": "Qual é o elemento químico com símbolo 'O'?",
+            "alternativas": [
+                "Ouro",
+                "Osmium",
+                "Oxigênio",
+                "Óxido"
+            ],
+            "resposta": "Oxigênio"
+        },
+        {
+            "pergunta": "Qual é o elemento químico com símbolo 'O'?",
+            "alternativas": [
+                "Ouro",
+                "Osmium",
+                "Oxigênio",
+                "Óxido"
+            ],
+            "resposta": "Oxigênio"
+        },
+        {
+            "pergunta": "Quem descobriu a América em 1492?",
+            "alternativas": [
+                "Colombo",
+                "Vespúcio",
+                "Polo",
+                "Magalhães"
+            ],
+            "resposta": "Colombo"
+        },
+        {
+            "pergunta": "Em qual cidade se passa a série 'Stranger Things'?",
+            "alternativas": [
+                "Hawkins",
+                "Springfield",
+                "Gotham",
+                "Riverdale"
+            ],
+            "resposta": "Hawkins"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Qual é o maior animal terrestre?",
+            "alternativas": [
+                "Elefante-africano",
+                "Girafa",
+                "Urso",
+                "Hipopótamo"
+            ],
+            "resposta": "Elefante-africano"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Qual é a capital do Japão?",
+            "alternativas": [
+                "Quioto",
+                "Osaka",
+                "Tóquio",
+                "Hiroshima"
+            ],
+            "resposta": "Tóquio"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente dos EUA?",
+            "alternativas": [
+                "Lincoln",
+                "Washington",
+                "Jefferson",
+                "Roosevelt"
+            ],
+            "resposta": "Washington"
+        },
+        {
+            "pergunta": "Quantos planetas existem no Sistema Solar?",
+            "alternativas": [
+                "7",
+                "8",
+                "9",
+                "10"
+            ],
+            "resposta": "8"
+        },
+        {
+            "pergunta": "Qual é o protagonista da série 'The Witcher'?",
+            "alternativas": [
+                "Geraldo",
+                "Geralt",
+                "Ganon",
+                "Gandalf"
+            ],
+            "resposta": "Geralt"
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+            "alternativas": [
+                "Júpiter",
+                "Vênus",
+                "Marte",
+                "Saturno"
+            ],
+            "resposta": "Marte"
+        },
+        {
+            "pergunta": "Qual é o protagonista da série 'The Witcher'?",
+            "alternativas": [
+                "Geraldo",
+                "Geralt",
+                "Ganon",
+                "Gandalf"
+            ],
+            "resposta": "Geralt"
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+            "alternativas": [
+                "Júpiter",
+                "Vênus",
+                "Marte",
+                "Saturno"
+            ],
+            "resposta": "Marte"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Qual é o nome do planeta de 'Halo'?",
+            "alternativas": [
+                "Terra",
+                "Reach",
+                "Zion",
+                "Pandora"
+            ],
+            "resposta": "Reach"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Qual é o nome verdadeiro do Batman?",
+            "alternativas": [
+                "Bruce Wayne",
+                "Clark Kent",
+                "Peter Parker",
+                "Tony Stark"
+            ],
+            "resposta": "Bruce Wayne"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Qual é a capital do Japão?",
+            "alternativas": [
+                "Quioto",
+                "Osaka",
+                "Tóquio",
+                "Hiroshima"
+            ],
+            "resposta": "Tóquio"
+        },
+        {
+            "pergunta": "Em qual cidade se passa a série 'Stranger Things'?",
+            "alternativas": [
+                "Hawkins",
+                "Springfield",
+                "Gotham",
+                "Riverdale"
+            ],
+            "resposta": "Hawkins"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Em que ano foi lançado 'Super Mario Bros.'?",
+            "alternativas": [
+                "1983",
+                "1984",
+                "1985",
+                "1986"
+            ],
+            "resposta": "1985"
+        },
+        {
+            "pergunta": "Quem foi o imperador francês famoso por suas conquistas?",
+            "alternativas": [
+                "Luís XIV",
+                "Napoleão",
+                "Carlos Magno",
+                "Robespierre"
+            ],
+            "resposta": "Napoleão"
+        },
+        {
+            "pergunta": "Quem é o vilão principal em 'Vingadores: Guerra Infinita'?",
+            "alternativas": [
+                "Loki",
+                "Ultron",
+                "Thanos",
+                "Hela"
+            ],
+            "resposta": "Thanos"
+        },
+        {
+            "pergunta": "Qual é o nome verdadeiro do Batman?",
+            "alternativas": [
+                "Bruce Wayne",
+                "Clark Kent",
+                "Peter Parker",
+                "Tony Stark"
+            ],
+            "resposta": "Bruce Wayne"
+        },
+        {
+            "pergunta": "Qual é a capital do Japão?",
+            "alternativas": [
+                "Quioto",
+                "Osaka",
+                "Tóquio",
+                "Hiroshima"
+            ],
+            "resposta": "Tóquio"
+        },
+        {
+            "pergunta": "Qual é o nome do planeta de 'Halo'?",
+            "alternativas": [
+                "Terra",
+                "Reach",
+                "Zion",
+                "Pandora"
+            ],
+            "resposta": "Reach"
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+            "alternativas": [
+                "Júpiter",
+                "Vênus",
+                "Marte",
+                "Saturno"
+            ],
+            "resposta": "Marte"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Em que ano caiu o Muro de Berlim?",
+            "alternativas": [
+                "1987",
+                "1988",
+                "1989",
+                "1990"
+            ],
+            "resposta": "1989"
+        },
+        {
+            "pergunta": "Qual é o nome verdadeiro do Batman?",
+            "alternativas": [
+                "Bruce Wayne",
+                "Clark Kent",
+                "Peter Parker",
+                "Tony Stark"
+            ],
+            "resposta": "Bruce Wayne"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+            "alternativas": [
+                "Júpiter",
+                "Vênus",
+                "Marte",
+                "Saturno"
+            ],
+            "resposta": "Marte"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+            "alternativas": [
+                "Júpiter",
+                "Vênus",
+                "Marte",
+                "Saturno"
+            ],
+            "resposta": "Marte"
+        },
+        {
+            "pergunta": "Qual é a capital do Japão?",
+            "alternativas": [
+                "Quioto",
+                "Osaka",
+                "Tóquio",
+                "Hiroshima"
+            ],
+            "resposta": "Tóquio"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Qual é o nome verdadeiro do Batman?",
+            "alternativas": [
+                "Bruce Wayne",
+                "Clark Kent",
+                "Peter Parker",
+                "Tony Stark"
+            ],
+            "resposta": "Bruce Wayne"
+        },
+        {
+            "pergunta": "Qual é o elemento químico com símbolo 'O'?",
+            "alternativas": [
+                "Ouro",
+                "Osmium",
+                "Oxigênio",
+                "Óxido"
+            ],
+            "resposta": "Oxigênio"
+        },
+        {
+            "pergunta": "Qual é o protagonista da série 'The Witcher'?",
+            "alternativas": [
+                "Geraldo",
+                "Geralt",
+                "Ganon",
+                "Gandalf"
+            ],
+            "resposta": "Geralt"
+        },
+        {
+            "pergunta": "Qual é o protagonista da série 'The Witcher'?",
+            "alternativas": [
+                "Geraldo",
+                "Geralt",
+                "Ganon",
+                "Gandalf"
+            ],
+            "resposta": "Geralt"
+        },
+        {
+            "pergunta": "Quem é o vilão principal em 'Vingadores: Guerra Infinita'?",
+            "alternativas": [
+                "Loki",
+                "Ultron",
+                "Thanos",
+                "Hela"
+            ],
+            "resposta": "Thanos"
+        },
+        {
+            "pergunta": "Quem descobriu a América em 1492?",
+            "alternativas": [
+                "Colombo",
+                "Vespúcio",
+                "Polo",
+                "Magalhães"
+            ],
+            "resposta": "Colombo"
+        },
+        {
+            "pergunta": "Qual é o elemento químico com símbolo 'O'?",
+            "alternativas": [
+                "Ouro",
+                "Osmium",
+                "Oxigênio",
+                "Óxido"
+            ],
+            "resposta": "Oxigênio"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Quem descobriu a América em 1492?",
+            "alternativas": [
+                "Colombo",
+                "Vespúcio",
+                "Polo",
+                "Magalhães"
+            ],
+            "resposta": "Colombo"
+        },
+        {
+            "pergunta": "Qual é o nome verdadeiro do Batman?",
+            "alternativas": [
+                "Bruce Wayne",
+                "Clark Kent",
+                "Peter Parker",
+                "Tony Stark"
+            ],
+            "resposta": "Bruce Wayne"
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+            "alternativas": [
+                "Júpiter",
+                "Vênus",
+                "Marte",
+                "Saturno"
+            ],
+            "resposta": "Marte"
+        },
+        {
+            "pergunta": "Em qual cidade se passa a série 'Stranger Things'?",
+            "alternativas": [
+                "Hawkins",
+                "Springfield",
+                "Gotham",
+                "Riverdale"
+            ],
+            "resposta": "Hawkins"
+        },
+        {
+            "pergunta": "Quem foi o imperador francês famoso por suas conquistas?",
+            "alternativas": [
+                "Luís XIV",
+                "Napoleão",
+                "Carlos Magno",
+                "Robespierre"
+            ],
+            "resposta": "Napoleão"
+        },
+        {
+            "pergunta": "Qual é o elemento químico com símbolo 'O'?",
+            "alternativas": [
+                "Ouro",
+                "Osmium",
+                "Oxigênio",
+                "Óxido"
+            ],
+            "resposta": "Oxigênio"
+        },
+        {
+            "pergunta": "Qual é o nome do planeta de 'Halo'?",
+            "alternativas": [
+                "Terra",
+                "Reach",
+                "Zion",
+                "Pandora"
+            ],
+            "resposta": "Reach"
+        },
+        {
+            "pergunta": "Quem foi o imperador francês famoso por suas conquistas?",
+            "alternativas": [
+                "Luís XIV",
+                "Napoleão",
+                "Carlos Magno",
+                "Robespierre"
+            ],
+            "resposta": "Napoleão"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Em que ano foi lançado 'Super Mario Bros.'?",
+            "alternativas": [
+                "1983",
+                "1984",
+                "1985",
+                "1986"
+            ],
+            "resposta": "1985"
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+            "alternativas": [
+                "Júpiter",
+                "Vênus",
+                "Marte",
+                "Saturno"
+            ],
+            "resposta": "Marte"
+        },
+        {
+            "pergunta": "Quem foi o imperador francês famoso por suas conquistas?",
+            "alternativas": [
+                "Luís XIV",
+                "Napoleão",
+                "Carlos Magno",
+                "Robespierre"
+            ],
+            "resposta": "Napoleão"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Qual é a capital do Japão?",
+            "alternativas": [
+                "Quioto",
+                "Osaka",
+                "Tóquio",
+                "Hiroshima"
+            ],
+            "resposta": "Tóquio"
+        },
+        {
+            "pergunta": "Qual é a capital do Japão?",
+            "alternativas": [
+                "Quioto",
+                "Osaka",
+                "Tóquio",
+                "Hiroshima"
+            ],
+            "resposta": "Tóquio"
+        },
+        {
+            "pergunta": "Em qual cidade se passa a série 'Stranger Things'?",
+            "alternativas": [
+                "Hawkins",
+                "Springfield",
+                "Gotham",
+                "Riverdale"
+            ],
+            "resposta": "Hawkins"
+        },
+        {
+            "pergunta": "Qual é a capital do Japão?",
+            "alternativas": [
+                "Quioto",
+                "Osaka",
+                "Tóquio",
+                "Hiroshima"
+            ],
+            "resposta": "Tóquio"
+        },
+        {
+            "pergunta": "Em qual cidade se passa a série 'Stranger Things'?",
+            "alternativas": [
+                "Hawkins",
+                "Springfield",
+                "Gotham",
+                "Riverdale"
+            ],
+            "resposta": "Hawkins"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Quem descobriu a América em 1492?",
+            "alternativas": [
+                "Colombo",
+                "Vespúcio",
+                "Polo",
+                "Magalhães"
+            ],
+            "resposta": "Colombo"
+        },
+        {
+            "pergunta": "Quem descobriu a América em 1492?",
+            "alternativas": [
+                "Colombo",
+                "Vespúcio",
+                "Polo",
+                "Magalhães"
+            ],
+            "resposta": "Colombo"
+        },
+        {
+            "pergunta": "Quem é o vilão principal em 'Vingadores: Guerra Infinita'?",
+            "alternativas": [
+                "Loki",
+                "Ultron",
+                "Thanos",
+                "Hela"
+            ],
+            "resposta": "Thanos"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente dos EUA?",
+            "alternativas": [
+                "Lincoln",
+                "Washington",
+                "Jefferson",
+                "Roosevelt"
+            ],
+            "resposta": "Washington"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Quem é o vilão principal em 'Vingadores: Guerra Infinita'?",
+            "alternativas": [
+                "Loki",
+                "Ultron",
+                "Thanos",
+                "Hela"
+            ],
+            "resposta": "Thanos"
+        },
+        {
+            "pergunta": "Em qual cidade se passa a série 'Stranger Things'?",
+            "alternativas": [
+                "Hawkins",
+                "Springfield",
+                "Gotham",
+                "Riverdale"
+            ],
+            "resposta": "Hawkins"
+        },
+        {
+            "pergunta": "Em que ano foi lançado 'Super Mario Bros.'?",
+            "alternativas": [
+                "1983",
+                "1984",
+                "1985",
+                "1986"
+            ],
+            "resposta": "1985"
+        },
+        {
+            "pergunta": "Qual é o protagonista da série 'The Witcher'?",
+            "alternativas": [
+                "Geraldo",
+                "Geralt",
+                "Ganon",
+                "Gandalf"
+            ],
+            "resposta": "Geralt"
+        },
+        {
+            "pergunta": "Qual é o elemento químico com símbolo 'O'?",
+            "alternativas": [
+                "Ouro",
+                "Osmium",
+                "Oxigênio",
+                "Óxido"
+            ],
+            "resposta": "Oxigênio"
+        },
+        {
+            "pergunta": "Quem é o vilão principal em 'Vingadores: Guerra Infinita'?",
+            "alternativas": [
+                "Loki",
+                "Ultron",
+                "Thanos",
+                "Hela"
+            ],
+            "resposta": "Thanos"
+        },
+        {
+            "pergunta": "Qual é o protagonista da série 'The Witcher'?",
+            "alternativas": [
+                "Geraldo",
+                "Geralt",
+                "Ganon",
+                "Gandalf"
+            ],
+            "resposta": "Geralt"
+        },
+        {
+            "pergunta": "Em que ano foi lançado 'Super Mario Bros.'?",
+            "alternativas": [
+                "1983",
+                "1984",
+                "1985",
+                "1986"
+            ],
+            "resposta": "1985"
+        },
+        {
+            "pergunta": "Em qual cidade se passa a série 'Stranger Things'?",
+            "alternativas": [
+                "Hawkins",
+                "Springfield",
+                "Gotham",
+                "Riverdale"
+            ],
+            "resposta": "Hawkins"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Quantos planetas existem no Sistema Solar?",
+            "alternativas": [
+                "7",
+                "8",
+                "9",
+                "10"
+            ],
+            "resposta": "8"
+        },
+        {
+            "pergunta": "Em que ano foi lançado 'Super Mario Bros.'?",
+            "alternativas": [
+                "1983",
+                "1984",
+                "1985",
+                "1986"
+            ],
+            "resposta": "1985"
+        },
+        {
+            "pergunta": "Qual é o nome verdadeiro do Batman?",
+            "alternativas": [
+                "Bruce Wayne",
+                "Clark Kent",
+                "Peter Parker",
+                "Tony Stark"
+            ],
+            "resposta": "Bruce Wayne"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Qual é o nome do planeta de 'Halo'?",
+            "alternativas": [
+                "Terra",
+                "Reach",
+                "Zion",
+                "Pandora"
+            ],
+            "resposta": "Reach"
+        },
+        {
+            "pergunta": "Qual é o elemento químico com símbolo 'O'?",
+            "alternativas": [
+                "Ouro",
+                "Osmium",
+                "Oxigênio",
+                "Óxido"
+            ],
+            "resposta": "Oxigênio"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente dos EUA?",
+            "alternativas": [
+                "Lincoln",
+                "Washington",
+                "Jefferson",
+                "Roosevelt"
+            ],
+            "resposta": "Washington"
+        },
+        {
+            "pergunta": "Em qual cidade se passa a série 'Stranger Things'?",
+            "alternativas": [
+                "Hawkins",
+                "Springfield",
+                "Gotham",
+                "Riverdale"
+            ],
+            "resposta": "Hawkins"
+        },
+        {
+            "pergunta": "Qual é o maior animal terrestre?",
+            "alternativas": [
+                "Elefante-africano",
+                "Girafa",
+                "Urso",
+                "Hipopótamo"
+            ],
+            "resposta": "Elefante-africano"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Em que ano caiu o Muro de Berlim?",
+            "alternativas": [
+                "1987",
+                "1988",
+                "1989",
+                "1990"
+            ],
+            "resposta": "1989"
+        },
+        {
+            "pergunta": "Quem foi o imperador francês famoso por suas conquistas?",
+            "alternativas": [
+                "Luís XIV",
+                "Napoleão",
+                "Carlos Magno",
+                "Robespierre"
+            ],
+            "resposta": "Napoleão"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente dos EUA?",
+            "alternativas": [
+                "Lincoln",
+                "Washington",
+                "Jefferson",
+                "Roosevelt"
+            ],
+            "resposta": "Washington"
+        },
+        {
+            "pergunta": "Em que ano caiu o Muro de Berlim?",
+            "alternativas": [
+                "1987",
+                "1988",
+                "1989",
+                "1990"
+            ],
+            "resposta": "1989"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente dos EUA?",
+            "alternativas": [
+                "Lincoln",
+                "Washington",
+                "Jefferson",
+                "Roosevelt"
+            ],
+            "resposta": "Washington"
+        },
+        {
+            "pergunta": "Quantos planetas existem no Sistema Solar?",
+            "alternativas": [
+                "7",
+                "8",
+                "9",
+                "10"
+            ],
+            "resposta": "8"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+            "alternativas": [
+                "Júpiter",
+                "Vênus",
+                "Marte",
+                "Saturno"
+            ],
+            "resposta": "Marte"
+        },
+        {
+            "pergunta": "Em que ano caiu o Muro de Berlim?",
+            "alternativas": [
+                "1987",
+                "1988",
+                "1989",
+                "1990"
+            ],
+            "resposta": "1989"
+        },
+        {
+            "pergunta": "Em que ano caiu o Muro de Berlim?",
+            "alternativas": [
+                "1987",
+                "1988",
+                "1989",
+                "1990"
+            ],
+            "resposta": "1989"
+        },
+        {
+            "pergunta": "Qual é o nome do planeta de 'Halo'?",
+            "alternativas": [
+                "Terra",
+                "Reach",
+                "Zion",
+                "Pandora"
+            ],
+            "resposta": "Reach"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Qual é o elemento químico com símbolo 'O'?",
+            "alternativas": [
+                "Ouro",
+                "Osmium",
+                "Oxigênio",
+                "Óxido"
+            ],
+            "resposta": "Oxigênio"
+        },
+        {
+            "pergunta": "Em que ano foi lançado 'Super Mario Bros.'?",
+            "alternativas": [
+                "1983",
+                "1984",
+                "1985",
+                "1986"
+            ],
+            "resposta": "1985"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente dos EUA?",
+            "alternativas": [
+                "Lincoln",
+                "Washington",
+                "Jefferson",
+                "Roosevelt"
+            ],
+            "resposta": "Washington"
+        },
+        {
+            "pergunta": "Em que ano caiu o Muro de Berlim?",
+            "alternativas": [
+                "1987",
+                "1988",
+                "1989",
+                "1990"
+            ],
+            "resposta": "1989"
+        },
+        {
+            "pergunta": "Quem é o vilão principal em 'Vingadores: Guerra Infinita'?",
+            "alternativas": [
+                "Loki",
+                "Ultron",
+                "Thanos",
+                "Hela"
+            ],
+            "resposta": "Thanos"
+        },
+        {
+            "pergunta": "Quem foi o imperador francês famoso por suas conquistas?",
+            "alternativas": [
+                "Luís XIV",
+                "Napoleão",
+                "Carlos Magno",
+                "Robespierre"
+            ],
+            "resposta": "Napoleão"
+        },
+        {
+            "pergunta": "Qual é o protagonista da série 'The Witcher'?",
+            "alternativas": [
+                "Geraldo",
+                "Geralt",
+                "Ganon",
+                "Gandalf"
+            ],
+            "resposta": "Geralt"
+        },
+        {
+            "pergunta": "Em qual cidade se passa a série 'Stranger Things'?",
+            "alternativas": [
+                "Hawkins",
+                "Springfield",
+                "Gotham",
+                "Riverdale"
+            ],
+            "resposta": "Hawkins"
+        },
+        {
+            "pergunta": "Qual é o nome do planeta de 'Halo'?",
+            "alternativas": [
+                "Terra",
+                "Reach",
+                "Zion",
+                "Pandora"
+            ],
+            "resposta": "Reach"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Qual é a capital do Japão?",
+            "alternativas": [
+                "Quioto",
+                "Osaka",
+                "Tóquio",
+                "Hiroshima"
+            ],
+            "resposta": "Tóquio"
+        },
+        {
+            "pergunta": "Qual é o protagonista da série 'The Witcher'?",
+            "alternativas": [
+                "Geraldo",
+                "Geralt",
+                "Ganon",
+                "Gandalf"
+            ],
+            "resposta": "Geralt"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Qual é o nome do planeta de 'Halo'?",
+            "alternativas": [
+                "Terra",
+                "Reach",
+                "Zion",
+                "Pandora"
+            ],
+            "resposta": "Reach"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Em que ano caiu o Muro de Berlim?",
+            "alternativas": [
+                "1987",
+                "1988",
+                "1989",
+                "1990"
+            ],
+            "resposta": "1989"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente dos EUA?",
+            "alternativas": [
+                "Lincoln",
+                "Washington",
+                "Jefferson",
+                "Roosevelt"
+            ],
+            "resposta": "Washington"
+        },
+        {
+            "pergunta": "Quem descobriu a América em 1492?",
+            "alternativas": [
+                "Colombo",
+                "Vespúcio",
+                "Polo",
+                "Magalhães"
+            ],
+            "resposta": "Colombo"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente dos EUA?",
+            "alternativas": [
+                "Lincoln",
+                "Washington",
+                "Jefferson",
+                "Roosevelt"
+            ],
+            "resposta": "Washington"
+        },
+        {
+            "pergunta": "Quantos planetas existem no Sistema Solar?",
+            "alternativas": [
+                "7",
+                "8",
+                "9",
+                "10"
+            ],
+            "resposta": "8"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Em que ano foi lançado 'Super Mario Bros.'?",
+            "alternativas": [
+                "1983",
+                "1984",
+                "1985",
+                "1986"
+            ],
+            "resposta": "1985"
+        },
+        {
+            "pergunta": "Quem é o vilão principal em 'Vingadores: Guerra Infinita'?",
+            "alternativas": [
+                "Loki",
+                "Ultron",
+                "Thanos",
+                "Hela"
+            ],
+            "resposta": "Thanos"
+        },
+        {
+            "pergunta": "Qual é o elemento químico com símbolo 'O'?",
+            "alternativas": [
+                "Ouro",
+                "Osmium",
+                "Oxigênio",
+                "Óxido"
+            ],
+            "resposta": "Oxigênio"
+        },
+        {
+            "pergunta": "Qual é o maior animal terrestre?",
+            "alternativas": [
+                "Elefante-africano",
+                "Girafa",
+                "Urso",
+                "Hipopótamo"
+            ],
+            "resposta": "Elefante-africano"
+        },
+        {
+            "pergunta": "Em que ano caiu o Muro de Berlim?",
+            "alternativas": [
+                "1987",
+                "1988",
+                "1989",
+                "1990"
+            ],
+            "resposta": "1989"
+        },
+        {
+            "pergunta": "Qual é o maior animal terrestre?",
+            "alternativas": [
+                "Elefante-africano",
+                "Girafa",
+                "Urso",
+                "Hipopótamo"
+            ],
+            "resposta": "Elefante-africano"
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+            "alternativas": [
+                "Júpiter",
+                "Vênus",
+                "Marte",
+                "Saturno"
+            ],
+            "resposta": "Marte"
+        },
+        {
+            "pergunta": "Quem é o vilão principal em 'Vingadores: Guerra Infinita'?",
+            "alternativas": [
+                "Loki",
+                "Ultron",
+                "Thanos",
+                "Hela"
+            ],
+            "resposta": "Thanos"
+        },
+        {
+            "pergunta": "Em que ano foi lançado 'Super Mario Bros.'?",
+            "alternativas": [
+                "1983",
+                "1984",
+                "1985",
+                "1986"
+            ],
+            "resposta": "1985"
+        },
+        {
+            "pergunta": "Quantos planetas existem no Sistema Solar?",
+            "alternativas": [
+                "7",
+                "8",
+                "9",
+                "10"
+            ],
+            "resposta": "8"
+        },
+        {
+            "pergunta": "Quem é o vilão principal em 'Vingadores: Guerra Infinita'?",
+            "alternativas": [
+                "Loki",
+                "Ultron",
+                "Thanos",
+                "Hela"
+            ],
+            "resposta": "Thanos"
+        },
+        {
+            "pergunta": "Quem é o vilão principal em 'Vingadores: Guerra Infinita'?",
+            "alternativas": [
+                "Loki",
+                "Ultron",
+                "Thanos",
+                "Hela"
+            ],
+            "resposta": "Thanos"
+        },
+        {
+            "pergunta": "Quem descobriu a América em 1492?",
+            "alternativas": [
+                "Colombo",
+                "Vespúcio",
+                "Polo",
+                "Magalhães"
+            ],
+            "resposta": "Colombo"
+        },
+        {
+            "pergunta": "Quem foi o imperador francês famoso por suas conquistas?",
+            "alternativas": [
+                "Luís XIV",
+                "Napoleão",
+                "Carlos Magno",
+                "Robespierre"
+            ],
+            "resposta": "Napoleão"
+        },
+        {
+            "pergunta": "Qual é o protagonista da série 'The Witcher'?",
+            "alternativas": [
+                "Geraldo",
+                "Geralt",
+                "Ganon",
+                "Gandalf"
+            ],
+            "resposta": "Geralt"
+        },
+        {
+            "pergunta": "Qual é o nome verdadeiro do Batman?",
+            "alternativas": [
+                "Bruce Wayne",
+                "Clark Kent",
+                "Peter Parker",
+                "Tony Stark"
+            ],
+            "resposta": "Bruce Wayne"
+        },
+        {
+            "pergunta": "Em que ano foi lançado 'Super Mario Bros.'?",
+            "alternativas": [
+                "1983",
+                "1984",
+                "1985",
+                "1986"
+            ],
+            "resposta": "1985"
+        },
+        {
+            "pergunta": "Em que ano foi lançado 'Super Mario Bros.'?",
+            "alternativas": [
+                "1983",
+                "1984",
+                "1985",
+                "1986"
+            ],
+            "resposta": "1985"
+        },
+        {
+            "pergunta": "Em que ano caiu o Muro de Berlim?",
+            "alternativas": [
+                "1987",
+                "1988",
+                "1989",
+                "1990"
+            ],
+            "resposta": "1989"
+        },
+        {
+            "pergunta": "Quem descobriu a América em 1492?",
+            "alternativas": [
+                "Colombo",
+                "Vespúcio",
+                "Polo",
+                "Magalhães"
+            ],
+            "resposta": "Colombo"
+        },
+        {
+            "pergunta": "Qual é a capital do Japão?",
+            "alternativas": [
+                "Quioto",
+                "Osaka",
+                "Tóquio",
+                "Hiroshima"
+            ],
+            "resposta": "Tóquio"
+        },
+        {
+            "pergunta": "Qual é o nome verdadeiro do Batman?",
+            "alternativas": [
+                "Bruce Wayne",
+                "Clark Kent",
+                "Peter Parker",
+                "Tony Stark"
+            ],
+            "resposta": "Bruce Wayne"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Qual é o nome verdadeiro do Batman?",
+            "alternativas": [
+                "Bruce Wayne",
+                "Clark Kent",
+                "Peter Parker",
+                "Tony Stark"
+            ],
+            "resposta": "Bruce Wayne"
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+            "alternativas": [
+                "Júpiter",
+                "Vênus",
+                "Marte",
+                "Saturno"
+            ],
+            "resposta": "Marte"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente dos EUA?",
+            "alternativas": [
+                "Lincoln",
+                "Washington",
+                "Jefferson",
+                "Roosevelt"
+            ],
+            "resposta": "Washington"
+        },
+        {
+            "pergunta": "Qual é o nome verdadeiro do Batman?",
+            "alternativas": [
+                "Bruce Wayne",
+                "Clark Kent",
+                "Peter Parker",
+                "Tony Stark"
+            ],
+            "resposta": "Bruce Wayne"
+        },
+        {
+            "pergunta": "Em qual cidade se passa a série 'Stranger Things'?",
+            "alternativas": [
+                "Hawkins",
+                "Springfield",
+                "Gotham",
+                "Riverdale"
+            ],
+            "resposta": "Hawkins"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+            "alternativas": [
+                "Júpiter",
+                "Vênus",
+                "Marte",
+                "Saturno"
+            ],
+            "resposta": "Marte"
+        },
+        {
+            "pergunta": "Em qual cidade se passa a série 'Stranger Things'?",
+            "alternativas": [
+                "Hawkins",
+                "Springfield",
+                "Gotham",
+                "Riverdale"
+            ],
+            "resposta": "Hawkins"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+            "alternativas": [
+                "Júpiter",
+                "Vênus",
+                "Marte",
+                "Saturno"
+            ],
+            "resposta": "Marte"
+        },
+        {
+            "pergunta": "Qual é o nome do planeta de 'Halo'?",
+            "alternativas": [
+                "Terra",
+                "Reach",
+                "Zion",
+                "Pandora"
+            ],
+            "resposta": "Reach"
+        },
+        {
+            "pergunta": "Qual é a capital do Japão?",
+            "alternativas": [
+                "Quioto",
+                "Osaka",
+                "Tóquio",
+                "Hiroshima"
+            ],
+            "resposta": "Tóquio"
+        },
+        {
+            "pergunta": "Em que ano caiu o Muro de Berlim?",
+            "alternativas": [
+                "1987",
+                "1988",
+                "1989",
+                "1990"
+            ],
+            "resposta": "1989"
+        },
+        {
+            "pergunta": "Quem foi o imperador francês famoso por suas conquistas?",
+            "alternativas": [
+                "Luís XIV",
+                "Napoleão",
+                "Carlos Magno",
+                "Robespierre"
+            ],
+            "resposta": "Napoleão"
+        },
+        {
+            "pergunta": "Qual é a capital do Japão?",
+            "alternativas": [
+                "Quioto",
+                "Osaka",
+                "Tóquio",
+                "Hiroshima"
+            ],
+            "resposta": "Tóquio"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Quem descobriu a América em 1492?",
+            "alternativas": [
+                "Colombo",
+                "Vespúcio",
+                "Polo",
+                "Magalhães"
+            ],
+            "resposta": "Colombo"
+        },
+        {
+            "pergunta": "Qual é o elemento químico com símbolo 'O'?",
+            "alternativas": [
+                "Ouro",
+                "Osmium",
+                "Oxigênio",
+                "Óxido"
+            ],
+            "resposta": "Oxigênio"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Qual é o nome do planeta de 'Halo'?",
+            "alternativas": [
+                "Terra",
+                "Reach",
+                "Zion",
+                "Pandora"
+            ],
+            "resposta": "Reach"
+        },
+        {
+            "pergunta": "Qual é o maior animal terrestre?",
+            "alternativas": [
+                "Elefante-africano",
+                "Girafa",
+                "Urso",
+                "Hipopótamo"
+            ],
+            "resposta": "Elefante-africano"
+        },
+        {
+            "pergunta": "Em que ano caiu o Muro de Berlim?",
+            "alternativas": [
+                "1987",
+                "1988",
+                "1989",
+                "1990"
+            ],
+            "resposta": "1989"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Qual é o nome do planeta de 'Halo'?",
+            "alternativas": [
+                "Terra",
+                "Reach",
+                "Zion",
+                "Pandora"
+            ],
+            "resposta": "Reach"
+        },
+        {
+            "pergunta": "Qual é o maior animal terrestre?",
+            "alternativas": [
+                "Elefante-africano",
+                "Girafa",
+                "Urso",
+                "Hipopótamo"
+            ],
+            "resposta": "Elefante-africano"
+        },
+        {
+            "pergunta": "Em qual cidade se passa a série 'Stranger Things'?",
+            "alternativas": [
+                "Hawkins",
+                "Springfield",
+                "Gotham",
+                "Riverdale"
+            ],
+            "resposta": "Hawkins"
+        },
+        {
+            "pergunta": "Em qual cidade se passa a série 'Stranger Things'?",
+            "alternativas": [
+                "Hawkins",
+                "Springfield",
+                "Gotham",
+                "Riverdale"
+            ],
+            "resposta": "Hawkins"
+        },
+        {
+            "pergunta": "Quem é o vilão principal em 'Vingadores: Guerra Infinita'?",
+            "alternativas": [
+                "Loki",
+                "Ultron",
+                "Thanos",
+                "Hela"
+            ],
+            "resposta": "Thanos"
+        },
+        {
+            "pergunta": "Qual é o nome do planeta de 'Halo'?",
+            "alternativas": [
+                "Terra",
+                "Reach",
+                "Zion",
+                "Pandora"
+            ],
+            "resposta": "Reach"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Qual é o maior animal terrestre?",
+            "alternativas": [
+                "Elefante-africano",
+                "Girafa",
+                "Urso",
+                "Hipopótamo"
+            ],
+            "resposta": "Elefante-africano"
+        },
+        {
+            "pergunta": "Em que ano caiu o Muro de Berlim?",
+            "alternativas": [
+                "1987",
+                "1988",
+                "1989",
+                "1990"
+            ],
+            "resposta": "1989"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Qual é o elemento químico com símbolo 'O'?",
+            "alternativas": [
+                "Ouro",
+                "Osmium",
+                "Oxigênio",
+                "Óxido"
+            ],
+            "resposta": "Oxigênio"
+        },
+        {
+            "pergunta": "Qual é o nome do planeta de 'Halo'?",
+            "alternativas": [
+                "Terra",
+                "Reach",
+                "Zion",
+                "Pandora"
+            ],
+            "resposta": "Reach"
+        },
+        {
+            "pergunta": "Em que ano caiu o Muro de Berlim?",
+            "alternativas": [
+                "1987",
+                "1988",
+                "1989",
+                "1990"
+            ],
+            "resposta": "1989"
+        },
+        {
+            "pergunta": "Quantos planetas existem no Sistema Solar?",
+            "alternativas": [
+                "7",
+                "8",
+                "9",
+                "10"
+            ],
+            "resposta": "8"
+        },
+        {
+            "pergunta": "Qual é a capital do Japão?",
+            "alternativas": [
+                "Quioto",
+                "Osaka",
+                "Tóquio",
+                "Hiroshima"
+            ],
+            "resposta": "Tóquio"
+        },
+        {
+            "pergunta": "Em que ano caiu o Muro de Berlim?",
+            "alternativas": [
+                "1987",
+                "1988",
+                "1989",
+                "1990"
+            ],
+            "resposta": "1989"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Qual é a capital do Japão?",
+            "alternativas": [
+                "Quioto",
+                "Osaka",
+                "Tóquio",
+                "Hiroshima"
+            ],
+            "resposta": "Tóquio"
+        },
+        {
+            "pergunta": "Quem descobriu a América em 1492?",
+            "alternativas": [
+                "Colombo",
+                "Vespúcio",
+                "Polo",
+                "Magalhães"
+            ],
+            "resposta": "Colombo"
+        },
+        {
+            "pergunta": "Qual é a capital do Japão?",
+            "alternativas": [
+                "Quioto",
+                "Osaka",
+                "Tóquio",
+                "Hiroshima"
+            ],
+            "resposta": "Tóquio"
+        },
+        {
+            "pergunta": "Quem é o vilão principal em 'Vingadores: Guerra Infinita'?",
+            "alternativas": [
+                "Loki",
+                "Ultron",
+                "Thanos",
+                "Hela"
+            ],
+            "resposta": "Thanos"
+        },
+        {
+            "pergunta": "Qual é o maior animal terrestre?",
+            "alternativas": [
+                "Elefante-africano",
+                "Girafa",
+                "Urso",
+                "Hipopótamo"
+            ],
+            "resposta": "Elefante-africano"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Em que ano foi lançado 'Super Mario Bros.'?",
+            "alternativas": [
+                "1983",
+                "1984",
+                "1985",
+                "1986"
+            ],
+            "resposta": "1985"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente dos EUA?",
+            "alternativas": [
+                "Lincoln",
+                "Washington",
+                "Jefferson",
+                "Roosevelt"
+            ],
+            "resposta": "Washington"
+        },
+        {
+            "pergunta": "Qual é o nome verdadeiro do Batman?",
+            "alternativas": [
+                "Bruce Wayne",
+                "Clark Kent",
+                "Peter Parker",
+                "Tony Stark"
+            ],
+            "resposta": "Bruce Wayne"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Quem descobriu a América em 1492?",
+            "alternativas": [
+                "Colombo",
+                "Vespúcio",
+                "Polo",
+                "Magalhães"
+            ],
+            "resposta": "Colombo"
+        },
+        {
+            "pergunta": "Qual é o elemento químico com símbolo 'O'?",
+            "alternativas": [
+                "Ouro",
+                "Osmium",
+                "Oxigênio",
+                "Óxido"
+            ],
+            "resposta": "Oxigênio"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente dos EUA?",
+            "alternativas": [
+                "Lincoln",
+                "Washington",
+                "Jefferson",
+                "Roosevelt"
+            ],
+            "resposta": "Washington"
+        },
+        {
+            "pergunta": "Em que ano caiu o Muro de Berlim?",
+            "alternativas": [
+                "1987",
+                "1988",
+                "1989",
+                "1990"
+            ],
+            "resposta": "1989"
+        },
+        {
+            "pergunta": "Quem é o vilão principal em 'Vingadores: Guerra Infinita'?",
+            "alternativas": [
+                "Loki",
+                "Ultron",
+                "Thanos",
+                "Hela"
+            ],
+            "resposta": "Thanos"
+        },
+        {
+            "pergunta": "Em que ano foi lançado 'Super Mario Bros.'?",
+            "alternativas": [
+                "1983",
+                "1984",
+                "1985",
+                "1986"
+            ],
+            "resposta": "1985"
+        },
+        {
+            "pergunta": "Em que ano caiu o Muro de Berlim?",
+            "alternativas": [
+                "1987",
+                "1988",
+                "1989",
+                "1990"
+            ],
+            "resposta": "1989"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente dos EUA?",
+            "alternativas": [
+                "Lincoln",
+                "Washington",
+                "Jefferson",
+                "Roosevelt"
+            ],
+            "resposta": "Washington"
+        },
+        {
+            "pergunta": "Qual é o nome do planeta de 'Halo'?",
+            "alternativas": [
+                "Terra",
+                "Reach",
+                "Zion",
+                "Pandora"
+            ],
+            "resposta": "Reach"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Quem descobriu a América em 1492?",
+            "alternativas": [
+                "Colombo",
+                "Vespúcio",
+                "Polo",
+                "Magalhães"
+            ],
+            "resposta": "Colombo"
+        },
+        {
+            "pergunta": "Qual é o protagonista da série 'The Witcher'?",
+            "alternativas": [
+                "Geraldo",
+                "Geralt",
+                "Ganon",
+                "Gandalf"
+            ],
+            "resposta": "Geralt"
+        },
+        {
+            "pergunta": "Qual é o nome do planeta de 'Halo'?",
+            "alternativas": [
+                "Terra",
+                "Reach",
+                "Zion",
+                "Pandora"
+            ],
+            "resposta": "Reach"
+        },
+        {
+            "pergunta": "Qual é o protagonista da série 'The Witcher'?",
+            "alternativas": [
+                "Geraldo",
+                "Geralt",
+                "Ganon",
+                "Gandalf"
+            ],
+            "resposta": "Geralt"
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+            "alternativas": [
+                "Júpiter",
+                "Vênus",
+                "Marte",
+                "Saturno"
+            ],
+            "resposta": "Marte"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Quem foi o imperador francês famoso por suas conquistas?",
+            "alternativas": [
+                "Luís XIV",
+                "Napoleão",
+                "Carlos Magno",
+                "Robespierre"
+            ],
+            "resposta": "Napoleão"
+        },
+        {
+            "pergunta": "Quantos planetas existem no Sistema Solar?",
+            "alternativas": [
+                "7",
+                "8",
+                "9",
+                "10"
+            ],
+            "resposta": "8"
+        },
+        {
+            "pergunta": "Quem é o vilão principal em 'Vingadores: Guerra Infinita'?",
+            "alternativas": [
+                "Loki",
+                "Ultron",
+                "Thanos",
+                "Hela"
+            ],
+            "resposta": "Thanos"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente dos EUA?",
+            "alternativas": [
+                "Lincoln",
+                "Washington",
+                "Jefferson",
+                "Roosevelt"
+            ],
+            "resposta": "Washington"
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+            "alternativas": [
+                "Júpiter",
+                "Vênus",
+                "Marte",
+                "Saturno"
+            ],
+            "resposta": "Marte"
+        },
+        {
+            "pergunta": "Quem descobriu a América em 1492?",
+            "alternativas": [
+                "Colombo",
+                "Vespúcio",
+                "Polo",
+                "Magalhães"
+            ],
+            "resposta": "Colombo"
+        },
+        {
+            "pergunta": "Quem é o vilão principal em 'Vingadores: Guerra Infinita'?",
+            "alternativas": [
+                "Loki",
+                "Ultron",
+                "Thanos",
+                "Hela"
+            ],
+            "resposta": "Thanos"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Quem foi o imperador francês famoso por suas conquistas?",
+            "alternativas": [
+                "Luís XIV",
+                "Napoleão",
+                "Carlos Magno",
+                "Robespierre"
+            ],
+            "resposta": "Napoleão"
+        },
+        {
+            "pergunta": "Qual é o nome do planeta de 'Halo'?",
+            "alternativas": [
+                "Terra",
+                "Reach",
+                "Zion",
+                "Pandora"
+            ],
+            "resposta": "Reach"
+        },
+        {
+            "pergunta": "Qual é o maior animal terrestre?",
+            "alternativas": [
+                "Elefante-africano",
+                "Girafa",
+                "Urso",
+                "Hipopótamo"
+            ],
+            "resposta": "Elefante-africano"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Quem é o vilão principal em 'Vingadores: Guerra Infinita'?",
+            "alternativas": [
+                "Loki",
+                "Ultron",
+                "Thanos",
+                "Hela"
+            ],
+            "resposta": "Thanos"
+        },
+        {
+            "pergunta": "Qual é o maior animal terrestre?",
+            "alternativas": [
+                "Elefante-africano",
+                "Girafa",
+                "Urso",
+                "Hipopótamo"
+            ],
+            "resposta": "Elefante-africano"
+        },
+        {
+            "pergunta": "Qual é o elemento químico com símbolo 'O'?",
+            "alternativas": [
+                "Ouro",
+                "Osmium",
+                "Oxigênio",
+                "Óxido"
+            ],
+            "resposta": "Oxigênio"
+        },
+        {
+            "pergunta": "Qual é o nome verdadeiro do Batman?",
+            "alternativas": [
+                "Bruce Wayne",
+                "Clark Kent",
+                "Peter Parker",
+                "Tony Stark"
+            ],
+            "resposta": "Bruce Wayne"
+        },
+        {
+            "pergunta": "Qual é a capital do Japão?",
+            "alternativas": [
+                "Quioto",
+                "Osaka",
+                "Tóquio",
+                "Hiroshima"
+            ],
+            "resposta": "Tóquio"
+        },
+        {
+            "pergunta": "Quantos planetas existem no Sistema Solar?",
+            "alternativas": [
+                "7",
+                "8",
+                "9",
+                "10"
+            ],
+            "resposta": "8"
+        },
+        {
+            "pergunta": "Em qual cidade se passa a série 'Stranger Things'?",
+            "alternativas": [
+                "Hawkins",
+                "Springfield",
+                "Gotham",
+                "Riverdale"
+            ],
+            "resposta": "Hawkins"
+        },
+        {
+            "pergunta": "Em que ano foi lançado 'Super Mario Bros.'?",
+            "alternativas": [
+                "1983",
+                "1984",
+                "1985",
+                "1986"
+            ],
+            "resposta": "1985"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente dos EUA?",
+            "alternativas": [
+                "Lincoln",
+                "Washington",
+                "Jefferson",
+                "Roosevelt"
+            ],
+            "resposta": "Washington"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Qual é o elemento químico com símbolo 'O'?",
+            "alternativas": [
+                "Ouro",
+                "Osmium",
+                "Oxigênio",
+                "Óxido"
+            ],
+            "resposta": "Oxigênio"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Em que ano caiu o Muro de Berlim?",
+            "alternativas": [
+                "1987",
+                "1988",
+                "1989",
+                "1990"
+            ],
+            "resposta": "1989"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Qual é o nome verdadeiro do Batman?",
+            "alternativas": [
+                "Bruce Wayne",
+                "Clark Kent",
+                "Peter Parker",
+                "Tony Stark"
+            ],
+            "resposta": "Bruce Wayne"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Em qual cidade se passa a série 'Stranger Things'?",
+            "alternativas": [
+                "Hawkins",
+                "Springfield",
+                "Gotham",
+                "Riverdale"
+            ],
+            "resposta": "Hawkins"
+        },
+        {
+            "pergunta": "Qual é o maior animal terrestre?",
+            "alternativas": [
+                "Elefante-africano",
+                "Girafa",
+                "Urso",
+                "Hipopótamo"
+            ],
+            "resposta": "Elefante-africano"
+        },
+        {
+            "pergunta": "Quantos planetas existem no Sistema Solar?",
+            "alternativas": [
+                "7",
+                "8",
+                "9",
+                "10"
+            ],
+            "resposta": "8"
+        },
+        {
+            "pergunta": "Qual é o protagonista da série 'The Witcher'?",
+            "alternativas": [
+                "Geraldo",
+                "Geralt",
+                "Ganon",
+                "Gandalf"
+            ],
+            "resposta": "Geralt"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Qual é a capital do Japão?",
+            "alternativas": [
+                "Quioto",
+                "Osaka",
+                "Tóquio",
+                "Hiroshima"
+            ],
+            "resposta": "Tóquio"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Quem é o vilão principal em 'Vingadores: Guerra Infinita'?",
+            "alternativas": [
+                "Loki",
+                "Ultron",
+                "Thanos",
+                "Hela"
+            ],
+            "resposta": "Thanos"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Em qual cidade se passa a série 'Stranger Things'?",
+            "alternativas": [
+                "Hawkins",
+                "Springfield",
+                "Gotham",
+                "Riverdale"
+            ],
+            "resposta": "Hawkins"
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+            "alternativas": [
+                "Júpiter",
+                "Vênus",
+                "Marte",
+                "Saturno"
+            ],
+            "resposta": "Marte"
+        },
+        {
+            "pergunta": "Qual é o protagonista da série 'The Witcher'?",
+            "alternativas": [
+                "Geraldo",
+                "Geralt",
+                "Ganon",
+                "Gandalf"
+            ],
+            "resposta": "Geralt"
+        },
+        {
+            "pergunta": "Quantos planetas existem no Sistema Solar?",
+            "alternativas": [
+                "7",
+                "8",
+                "9",
+                "10"
+            ],
+            "resposta": "8"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Quantos planetas existem no Sistema Solar?",
+            "alternativas": [
+                "7",
+                "8",
+                "9",
+                "10"
+            ],
+            "resposta": "8"
+        },
+        {
+            "pergunta": "Em qual cidade se passa a série 'Stranger Things'?",
+            "alternativas": [
+                "Hawkins",
+                "Springfield",
+                "Gotham",
+                "Riverdale"
+            ],
+            "resposta": "Hawkins"
+        },
+        {
+            "pergunta": "Quem foi o imperador francês famoso por suas conquistas?",
+            "alternativas": [
+                "Luís XIV",
+                "Napoleão",
+                "Carlos Magno",
+                "Robespierre"
+            ],
+            "resposta": "Napoleão"
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+            "alternativas": [
+                "Júpiter",
+                "Vênus",
+                "Marte",
+                "Saturno"
+            ],
+            "resposta": "Marte"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Qual é o maior animal terrestre?",
+            "alternativas": [
+                "Elefante-africano",
+                "Girafa",
+                "Urso",
+                "Hipopótamo"
+            ],
+            "resposta": "Elefante-africano"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Em que ano caiu o Muro de Berlim?",
+            "alternativas": [
+                "1987",
+                "1988",
+                "1989",
+                "1990"
+            ],
+            "resposta": "1989"
+        },
+        {
+            "pergunta": "Qual é o maior animal terrestre?",
+            "alternativas": [
+                "Elefante-africano",
+                "Girafa",
+                "Urso",
+                "Hipopótamo"
+            ],
+            "resposta": "Elefante-africano"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Qual é a capital do Japão?",
+            "alternativas": [
+                "Quioto",
+                "Osaka",
+                "Tóquio",
+                "Hiroshima"
+            ],
+            "resposta": "Tóquio"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Qual é o nome do planeta de 'Halo'?",
+            "alternativas": [
+                "Terra",
+                "Reach",
+                "Zion",
+                "Pandora"
+            ],
+            "resposta": "Reach"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Quem é o vilão principal em 'Vingadores: Guerra Infinita'?",
+            "alternativas": [
+                "Loki",
+                "Ultron",
+                "Thanos",
+                "Hela"
+            ],
+            "resposta": "Thanos"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente dos EUA?",
+            "alternativas": [
+                "Lincoln",
+                "Washington",
+                "Jefferson",
+                "Roosevelt"
+            ],
+            "resposta": "Washington"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+            "alternativas": [
+                "Júpiter",
+                "Vênus",
+                "Marte",
+                "Saturno"
+            ],
+            "resposta": "Marte"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Qual é a capital do Japão?",
+            "alternativas": [
+                "Quioto",
+                "Osaka",
+                "Tóquio",
+                "Hiroshima"
+            ],
+            "resposta": "Tóquio"
+        },
+        {
+            "pergunta": "Quem foi o imperador francês famoso por suas conquistas?",
+            "alternativas": [
+                "Luís XIV",
+                "Napoleão",
+                "Carlos Magno",
+                "Robespierre"
+            ],
+            "resposta": "Napoleão"
+        },
+        {
+            "pergunta": "Em qual cidade se passa a série 'Stranger Things'?",
+            "alternativas": [
+                "Hawkins",
+                "Springfield",
+                "Gotham",
+                "Riverdale"
+            ],
+            "resposta": "Hawkins"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Em que ano foi lançado 'Super Mario Bros.'?",
+            "alternativas": [
+                "1983",
+                "1984",
+                "1985",
+                "1986"
+            ],
+            "resposta": "1985"
+        },
+        {
+            "pergunta": "Qual é o maior animal terrestre?",
+            "alternativas": [
+                "Elefante-africano",
+                "Girafa",
+                "Urso",
+                "Hipopótamo"
+            ],
+            "resposta": "Elefante-africano"
+        },
+        {
+            "pergunta": "Em que ano caiu o Muro de Berlim?",
+            "alternativas": [
+                "1987",
+                "1988",
+                "1989",
+                "1990"
+            ],
+            "resposta": "1989"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Quem é o vilão principal em 'Vingadores: Guerra Infinita'?",
+            "alternativas": [
+                "Loki",
+                "Ultron",
+                "Thanos",
+                "Hela"
+            ],
+            "resposta": "Thanos"
+        },
+        {
+            "pergunta": "Qual é o elemento químico com símbolo 'O'?",
+            "alternativas": [
+                "Ouro",
+                "Osmium",
+                "Oxigênio",
+                "Óxido"
+            ],
+            "resposta": "Oxigênio"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Em que ano foi lançado 'Super Mario Bros.'?",
+            "alternativas": [
+                "1983",
+                "1984",
+                "1985",
+                "1986"
+            ],
+            "resposta": "1985"
+        },
+        {
+            "pergunta": "Qual é o nome verdadeiro do Batman?",
+            "alternativas": [
+                "Bruce Wayne",
+                "Clark Kent",
+                "Peter Parker",
+                "Tony Stark"
+            ],
+            "resposta": "Bruce Wayne"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Quem foi o imperador francês famoso por suas conquistas?",
+            "alternativas": [
+                "Luís XIV",
+                "Napoleão",
+                "Carlos Magno",
+                "Robespierre"
+            ],
+            "resposta": "Napoleão"
+        },
+        {
+            "pergunta": "Quantos planetas existem no Sistema Solar?",
+            "alternativas": [
+                "7",
+                "8",
+                "9",
+                "10"
+            ],
+            "resposta": "8"
+        },
+        {
+            "pergunta": "Qual é o elemento químico com símbolo 'O'?",
+            "alternativas": [
+                "Ouro",
+                "Osmium",
+                "Oxigênio",
+                "Óxido"
+            ],
+            "resposta": "Oxigênio"
+        },
+        {
+            "pergunta": "Quantos planetas existem no Sistema Solar?",
+            "alternativas": [
+                "7",
+                "8",
+                "9",
+                "10"
+            ],
+            "resposta": "8"
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+            "alternativas": [
+                "Júpiter",
+                "Vênus",
+                "Marte",
+                "Saturno"
+            ],
+            "resposta": "Marte"
+        },
+        {
+            "pergunta": "Qual é o elemento químico com símbolo 'O'?",
+            "alternativas": [
+                "Ouro",
+                "Osmium",
+                "Oxigênio",
+                "Óxido"
+            ],
+            "resposta": "Oxigênio"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente dos EUA?",
+            "alternativas": [
+                "Lincoln",
+                "Washington",
+                "Jefferson",
+                "Roosevelt"
+            ],
+            "resposta": "Washington"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Qual é o protagonista da série 'The Witcher'?",
+            "alternativas": [
+                "Geraldo",
+                "Geralt",
+                "Ganon",
+                "Gandalf"
+            ],
+            "resposta": "Geralt"
+        },
+        {
+            "pergunta": "Quem foi o imperador francês famoso por suas conquistas?",
+            "alternativas": [
+                "Luís XIV",
+                "Napoleão",
+                "Carlos Magno",
+                "Robespierre"
+            ],
+            "resposta": "Napoleão"
+        },
+        {
+            "pergunta": "Quem foi o imperador francês famoso por suas conquistas?",
+            "alternativas": [
+                "Luís XIV",
+                "Napoleão",
+                "Carlos Magno",
+                "Robespierre"
+            ],
+            "resposta": "Napoleão"
+        },
+        {
+            "pergunta": "Qual é o maior animal terrestre?",
+            "alternativas": [
+                "Elefante-africano",
+                "Girafa",
+                "Urso",
+                "Hipopótamo"
+            ],
+            "resposta": "Elefante-africano"
+        },
+        {
+            "pergunta": "Qual é o protagonista da série 'The Witcher'?",
+            "alternativas": [
+                "Geraldo",
+                "Geralt",
+                "Ganon",
+                "Gandalf"
+            ],
+            "resposta": "Geralt"
+        },
+        {
+            "pergunta": "Em que ano caiu o Muro de Berlim?",
+            "alternativas": [
+                "1987",
+                "1988",
+                "1989",
+                "1990"
+            ],
+            "resposta": "1989"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Qual é o protagonista da série 'The Witcher'?",
+            "alternativas": [
+                "Geraldo",
+                "Geralt",
+                "Ganon",
+                "Gandalf"
+            ],
+            "resposta": "Geralt"
+        },
+        {
+            "pergunta": "Qual é o elemento químico com símbolo 'O'?",
+            "alternativas": [
+                "Ouro",
+                "Osmium",
+                "Oxigênio",
+                "Óxido"
+            ],
+            "resposta": "Oxigênio"
+        },
+        {
+            "pergunta": "Em que ano foi lançado 'Super Mario Bros.'?",
+            "alternativas": [
+                "1983",
+                "1984",
+                "1985",
+                "1986"
+            ],
+            "resposta": "1985"
+        },
+        {
+            "pergunta": "Qual é o nome do planeta de 'Halo'?",
+            "alternativas": [
+                "Terra",
+                "Reach",
+                "Zion",
+                "Pandora"
+            ],
+            "resposta": "Reach"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente dos EUA?",
+            "alternativas": [
+                "Lincoln",
+                "Washington",
+                "Jefferson",
+                "Roosevelt"
+            ],
+            "resposta": "Washington"
+        },
+        {
+            "pergunta": "Qual é a capital do Japão?",
+            "alternativas": [
+                "Quioto",
+                "Osaka",
+                "Tóquio",
+                "Hiroshima"
+            ],
+            "resposta": "Tóquio"
+        },
+        {
+            "pergunta": "Em que ano foi lançado 'Super Mario Bros.'?",
+            "alternativas": [
+                "1983",
+                "1984",
+                "1985",
+                "1986"
+            ],
+            "resposta": "1985"
+        },
+        {
+            "pergunta": "Quem foi o imperador francês famoso por suas conquistas?",
+            "alternativas": [
+                "Luís XIV",
+                "Napoleão",
+                "Carlos Magno",
+                "Robespierre"
+            ],
+            "resposta": "Napoleão"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente dos EUA?",
+            "alternativas": [
+                "Lincoln",
+                "Washington",
+                "Jefferson",
+                "Roosevelt"
+            ],
+            "resposta": "Washington"
+        },
+        {
+            "pergunta": "Em que ano foi lançado 'Super Mario Bros.'?",
+            "alternativas": [
+                "1983",
+                "1984",
+                "1985",
+                "1986"
+            ],
+            "resposta": "1985"
+        },
+        {
+            "pergunta": "Qual é o nome verdadeiro do Batman?",
+            "alternativas": [
+                "Bruce Wayne",
+                "Clark Kent",
+                "Peter Parker",
+                "Tony Stark"
+            ],
+            "resposta": "Bruce Wayne"
+        },
+        {
+            "pergunta": "Qual é o elemento químico com símbolo 'O'?",
+            "alternativas": [
+                "Ouro",
+                "Osmium",
+                "Oxigênio",
+                "Óxido"
+            ],
+            "resposta": "Oxigênio"
+        },
+        {
+            "pergunta": "Qual é o nome verdadeiro do Batman?",
+            "alternativas": [
+                "Bruce Wayne",
+                "Clark Kent",
+                "Peter Parker",
+                "Tony Stark"
+            ],
+            "resposta": "Bruce Wayne"
+        },
+        {
+            "pergunta": "Em qual cidade se passa a série 'Stranger Things'?",
+            "alternativas": [
+                "Hawkins",
+                "Springfield",
+                "Gotham",
+                "Riverdale"
+            ],
+            "resposta": "Hawkins"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente dos EUA?",
+            "alternativas": [
+                "Lincoln",
+                "Washington",
+                "Jefferson",
+                "Roosevelt"
+            ],
+            "resposta": "Washington"
+        },
+        {
+            "pergunta": "Qual é o nome do planeta de 'Halo'?",
+            "alternativas": [
+                "Terra",
+                "Reach",
+                "Zion",
+                "Pandora"
+            ],
+            "resposta": "Reach"
+        },
+        {
+            "pergunta": "Qual é o maior animal terrestre?",
+            "alternativas": [
+                "Elefante-africano",
+                "Girafa",
+                "Urso",
+                "Hipopótamo"
+            ],
+            "resposta": "Elefante-africano"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Quem foi o imperador francês famoso por suas conquistas?",
+            "alternativas": [
+                "Luís XIV",
+                "Napoleão",
+                "Carlos Magno",
+                "Robespierre"
+            ],
+            "resposta": "Napoleão"
+        },
+        {
+            "pergunta": "Qual é o nome do planeta de 'Halo'?",
+            "alternativas": [
+                "Terra",
+                "Reach",
+                "Zion",
+                "Pandora"
+            ],
+            "resposta": "Reach"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Em que ano caiu o Muro de Berlim?",
+            "alternativas": [
+                "1987",
+                "1988",
+                "1989",
+                "1990"
+            ],
+            "resposta": "1989"
+        },
+        {
+            "pergunta": "Quem descobriu a América em 1492?",
+            "alternativas": [
+                "Colombo",
+                "Vespúcio",
+                "Polo",
+                "Magalhães"
+            ],
+            "resposta": "Colombo"
+        },
+        {
+            "pergunta": "Em que ano foi lançado 'Super Mario Bros.'?",
+            "alternativas": [
+                "1983",
+                "1984",
+                "1985",
+                "1986"
+            ],
+            "resposta": "1985"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Qual é o maior animal terrestre?",
+            "alternativas": [
+                "Elefante-africano",
+                "Girafa",
+                "Urso",
+                "Hipopótamo"
+            ],
+            "resposta": "Elefante-africano"
+        },
+        {
+            "pergunta": "Em qual cidade se passa a série 'Stranger Things'?",
+            "alternativas": [
+                "Hawkins",
+                "Springfield",
+                "Gotham",
+                "Riverdale"
+            ],
+            "resposta": "Hawkins"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente dos EUA?",
+            "alternativas": [
+                "Lincoln",
+                "Washington",
+                "Jefferson",
+                "Roosevelt"
+            ],
+            "resposta": "Washington"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente dos EUA?",
+            "alternativas": [
+                "Lincoln",
+                "Washington",
+                "Jefferson",
+                "Roosevelt"
+            ],
+            "resposta": "Washington"
+        },
+        {
+            "pergunta": "Quem foi o imperador francês famoso por suas conquistas?",
+            "alternativas": [
+                "Luís XIV",
+                "Napoleão",
+                "Carlos Magno",
+                "Robespierre"
+            ],
+            "resposta": "Napoleão"
+        },
+        {
+            "pergunta": "Quem foi o imperador francês famoso por suas conquistas?",
+            "alternativas": [
+                "Luís XIV",
+                "Napoleão",
+                "Carlos Magno",
+                "Robespierre"
+            ],
+            "resposta": "Napoleão"
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+            "alternativas": [
+                "Júpiter",
+                "Vênus",
+                "Marte",
+                "Saturno"
+            ],
+            "resposta": "Marte"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente dos EUA?",
+            "alternativas": [
+                "Lincoln",
+                "Washington",
+                "Jefferson",
+                "Roosevelt"
+            ],
+            "resposta": "Washington"
+        },
+        {
+            "pergunta": "Qual é o elemento químico com símbolo 'O'?",
+            "alternativas": [
+                "Ouro",
+                "Osmium",
+                "Oxigênio",
+                "Óxido"
+            ],
+            "resposta": "Oxigênio"
+        },
+        {
+            "pergunta": "Quem foi o imperador francês famoso por suas conquistas?",
+            "alternativas": [
+                "Luís XIV",
+                "Napoleão",
+                "Carlos Magno",
+                "Robespierre"
+            ],
+            "resposta": "Napoleão"
+        },
+        {
+            "pergunta": "Em que ano foi lançado 'Super Mario Bros.'?",
+            "alternativas": [
+                "1983",
+                "1984",
+                "1985",
+                "1986"
+            ],
+            "resposta": "1985"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Qual é o maior animal terrestre?",
+            "alternativas": [
+                "Elefante-africano",
+                "Girafa",
+                "Urso",
+                "Hipopótamo"
+            ],
+            "resposta": "Elefante-africano"
+        },
+        {
+            "pergunta": "Qual é o protagonista da série 'The Witcher'?",
+            "alternativas": [
+                "Geraldo",
+                "Geralt",
+                "Ganon",
+                "Gandalf"
+            ],
+            "resposta": "Geralt"
+        },
+        {
+            "pergunta": "Quantos planetas existem no Sistema Solar?",
+            "alternativas": [
+                "7",
+                "8",
+                "9",
+                "10"
+            ],
+            "resposta": "8"
+        },
+        {
+            "pergunta": "Quem descobriu a América em 1492?",
+            "alternativas": [
+                "Colombo",
+                "Vespúcio",
+                "Polo",
+                "Magalhães"
+            ],
+            "resposta": "Colombo"
+        },
+        {
+            "pergunta": "Qual é o nome do planeta de 'Halo'?",
+            "alternativas": [
+                "Terra",
+                "Reach",
+                "Zion",
+                "Pandora"
+            ],
+            "resposta": "Reach"
+        },
+        {
+            "pergunta": "Qual é o nome do planeta de 'Halo'?",
+            "alternativas": [
+                "Terra",
+                "Reach",
+                "Zion",
+                "Pandora"
+            ],
+            "resposta": "Reach"
+        },
+        {
+            "pergunta": "Qual é a capital do Japão?",
+            "alternativas": [
+                "Quioto",
+                "Osaka",
+                "Tóquio",
+                "Hiroshima"
+            ],
+            "resposta": "Tóquio"
+        },
+        {
+            "pergunta": "Quem foi o imperador francês famoso por suas conquistas?",
+            "alternativas": [
+                "Luís XIV",
+                "Napoleão",
+                "Carlos Magno",
+                "Robespierre"
+            ],
+            "resposta": "Napoleão"
+        },
+        {
+            "pergunta": "Qual é o elemento químico com símbolo 'O'?",
+            "alternativas": [
+                "Ouro",
+                "Osmium",
+                "Oxigênio",
+                "Óxido"
+            ],
+            "resposta": "Oxigênio"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Qual é o elemento químico com símbolo 'O'?",
+            "alternativas": [
+                "Ouro",
+                "Osmium",
+                "Oxigênio",
+                "Óxido"
+            ],
+            "resposta": "Oxigênio"
+        },
+        {
+            "pergunta": "Quem foi o imperador francês famoso por suas conquistas?",
+            "alternativas": [
+                "Luís XIV",
+                "Napoleão",
+                "Carlos Magno",
+                "Robespierre"
+            ],
+            "resposta": "Napoleão"
+        },
+        {
+            "pergunta": "Quem foi o imperador francês famoso por suas conquistas?",
+            "alternativas": [
+                "Luís XIV",
+                "Napoleão",
+                "Carlos Magno",
+                "Robespierre"
+            ],
+            "resposta": "Napoleão"
+        },
+        {
+            "pergunta": "Quem é o vilão principal em 'Vingadores: Guerra Infinita'?",
+            "alternativas": [
+                "Loki",
+                "Ultron",
+                "Thanos",
+                "Hela"
+            ],
+            "resposta": "Thanos"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Quem descobriu a América em 1492?",
+            "alternativas": [
+                "Colombo",
+                "Vespúcio",
+                "Polo",
+                "Magalhães"
+            ],
+            "resposta": "Colombo"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Em qual cidade se passa a série 'Stranger Things'?",
+            "alternativas": [
+                "Hawkins",
+                "Springfield",
+                "Gotham",
+                "Riverdale"
+            ],
+            "resposta": "Hawkins"
+        },
+        {
+            "pergunta": "Qual é o nome do criador de 'Minecraft'?",
+            "alternativas": [
+                "Notch",
+                "Jeb",
+                "Gabe Newell",
+                "Markus Persson"
+            ],
+            "resposta": "Markus Persson"
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+            "alternativas": [
+                "Júpiter",
+                "Vênus",
+                "Marte",
+                "Saturno"
+            ],
+            "resposta": "Marte"
+        },
+        {
+            "pergunta": "Em qual cidade se passa a série 'Stranger Things'?",
+            "alternativas": [
+                "Hawkins",
+                "Springfield",
+                "Gotham",
+                "Riverdale"
+            ],
+            "resposta": "Hawkins"
+        },
+        {
+            "pergunta": "Em que ano foi lançado 'Super Mario Bros.'?",
+            "alternativas": [
+                "1983",
+                "1984",
+                "1985",
+                "1986"
+            ],
+            "resposta": "1985"
+        },
+        {
+            "pergunta": "Quem foi o imperador francês famoso por suas conquistas?",
+            "alternativas": [
+                "Luís XIV",
+                "Napoleão",
+                "Carlos Magno",
+                "Robespierre"
+            ],
+            "resposta": "Napoleão"
+        },
+        {
+            "pergunta": "Quem descobriu a América em 1492?",
+            "alternativas": [
+                "Colombo",
+                "Vespúcio",
+                "Polo",
+                "Magalhães"
+            ],
+            "resposta": "Colombo"
+        },
+        {
+            "pergunta": "Quem foi o imperador francês famoso por suas conquistas?",
+            "alternativas": [
+                "Luís XIV",
+                "Napoleão",
+                "Carlos Magno",
+                "Robespierre"
+            ],
+            "resposta": "Napoleão"
+        },
+        {
+            "pergunta": "Qual é a capital do Japão?",
+            "alternativas": [
+                "Quioto",
+                "Osaka",
+                "Tóquio",
+                "Hiroshima"
+            ],
+            "resposta": "Tóquio"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Quem é o vilão principal em 'Vingadores: Guerra Infinita'?",
+            "alternativas": [
+                "Loki",
+                "Ultron",
+                "Thanos",
+                "Hela"
+            ],
+            "resposta": "Thanos"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Qual é a capital do Japão?",
+            "alternativas": [
+                "Quioto",
+                "Osaka",
+                "Tóquio",
+                "Hiroshima"
+            ],
+            "resposta": "Tóquio"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Em que ano foi lançado 'Super Mario Bros.'?",
+            "alternativas": [
+                "1983",
+                "1984",
+                "1985",
+                "1986"
+            ],
+            "resposta": "1985"
+        },
+        {
+            "pergunta": "Qual é o nome do planeta de 'Halo'?",
+            "alternativas": [
+                "Terra",
+                "Reach",
+                "Zion",
+                "Pandora"
+            ],
+            "resposta": "Reach"
+        },
+        {
+            "pergunta": "Quem descobriu a América em 1492?",
+            "alternativas": [
+                "Colombo",
+                "Vespúcio",
+                "Polo",
+                "Magalhães"
+            ],
+            "resposta": "Colombo"
+        },
+        {
+            "pergunta": "Qual é o elemento químico com símbolo 'O'?",
+            "alternativas": [
+                "Ouro",
+                "Osmium",
+                "Oxigênio",
+                "Óxido"
+            ],
+            "resposta": "Oxigênio"
+        },
+        {
+            "pergunta": "Qual é o elemento químico com símbolo 'O'?",
+            "alternativas": [
+                "Ouro",
+                "Osmium",
+                "Oxigênio",
+                "Óxido"
+            ],
+            "resposta": "Oxigênio"
+        },
+        {
+            "pergunta": "Qual é o protagonista da série 'The Witcher'?",
+            "alternativas": [
+                "Geraldo",
+                "Geralt",
+                "Ganon",
+                "Gandalf"
+            ],
+            "resposta": "Geralt"
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+            "alternativas": [
+                "Júpiter",
+                "Vênus",
+                "Marte",
+                "Saturno"
+            ],
+            "resposta": "Marte"
+        },
+        {
+            "pergunta": "Qual é a capital do Japão?",
+            "alternativas": [
+                "Quioto",
+                "Osaka",
+                "Tóquio",
+                "Hiroshima"
+            ],
+            "resposta": "Tóquio"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Qual é o protagonista da série 'The Witcher'?",
+            "alternativas": [
+                "Geraldo",
+                "Geralt",
+                "Ganon",
+                "Gandalf"
+            ],
+            "resposta": "Geralt"
+        },
+        {
+            "pergunta": "Qual é a capital do Japão?",
+            "alternativas": [
+                "Quioto",
+                "Osaka",
+                "Tóquio",
+                "Hiroshima"
+            ],
+            "resposta": "Tóquio"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Quem descobriu a América em 1492?",
+            "alternativas": [
+                "Colombo",
+                "Vespúcio",
+                "Polo",
+                "Magalhães"
+            ],
+            "resposta": "Colombo"
+        },
+        {
+            "pergunta": "Qual é o maior animal terrestre?",
+            "alternativas": [
+                "Elefante-africano",
+                "Girafa",
+                "Urso",
+                "Hipopótamo"
+            ],
+            "resposta": "Elefante-africano"
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+            "alternativas": [
+                "Júpiter",
+                "Vênus",
+                "Marte",
+                "Saturno"
+            ],
+            "resposta": "Marte"
+        },
+        {
+            "pergunta": "Quem descobriu a América em 1492?",
+            "alternativas": [
+                "Colombo",
+                "Vespúcio",
+                "Polo",
+                "Magalhães"
+            ],
+            "resposta": "Colombo"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Em qual console foi lançado o primeiro 'The Legend of Zelda'?",
+            "alternativas": [
+                "SNES",
+                "NES",
+                "Game Boy",
+                "Nintendo 64"
+            ],
+            "resposta": "NES"
+        },
+        {
+            "pergunta": "Quem é o vilão principal em 'Vingadores: Guerra Infinita'?",
+            "alternativas": [
+                "Loki",
+                "Ultron",
+                "Thanos",
+                "Hela"
+            ],
+            "resposta": "Thanos"
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+            "alternativas": [
+                "Júpiter",
+                "Vênus",
+                "Marte",
+                "Saturno"
+            ],
+            "resposta": "Marte"
+        },
+        {
+            "pergunta": "Quem descobriu a América em 1492?",
+            "alternativas": [
+                "Colombo",
+                "Vespúcio",
+                "Polo",
+                "Magalhães"
+            ],
+            "resposta": "Colombo"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente dos EUA?",
+            "alternativas": [
+                "Lincoln",
+                "Washington",
+                "Jefferson",
+                "Roosevelt"
+            ],
+            "resposta": "Washington"
+        },
+        {
+            "pergunta": "Qual é a capital do Japão?",
+            "alternativas": [
+                "Quioto",
+                "Osaka",
+                "Tóquio",
+                "Hiroshima"
+            ],
+            "resposta": "Tóquio"
+        },
+        {
+            "pergunta": "Quantos planetas existem no Sistema Solar?",
+            "alternativas": [
+                "7",
+                "8",
+                "9",
+                "10"
+            ],
+            "resposta": "8"
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+            "alternativas": [
+                "Júpiter",
+                "Vênus",
+                "Marte",
+                "Saturno"
+            ],
+            "resposta": "Marte"
+        },
+        {
+            "pergunta": "Em que ano caiu o Muro de Berlim?",
+            "alternativas": [
+                "1987",
+                "1988",
+                "1989",
+                "1990"
+            ],
+            "resposta": "1989"
+        },
+        {
+            "pergunta": "Quem descobriu a América em 1492?",
+            "alternativas": [
+                "Colombo",
+                "Vespúcio",
+                "Polo",
+                "Magalhães"
+            ],
+            "resposta": "Colombo"
+        },
+        {
+            "pergunta": "Qual é o nome verdadeiro do Batman?",
+            "alternativas": [
+                "Bruce Wayne",
+                "Clark Kent",
+                "Peter Parker",
+                "Tony Stark"
+            ],
+            "resposta": "Bruce Wayne"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": [
+                "Astecas",
+                "Maias",
+                "Incas",
+                "Olmecas"
+            ],
+            "resposta": "Incas"
+        },
+        {
+            "pergunta": "Qual é a cor do sabre de luz de Luke Skywalker em 'O Retorno de Jedi'?",
+            "alternativas": [
+                "Azul",
+                "Verde",
+                "Vermelho",
+                "Roxo"
+            ],
+            "resposta": "Verde"
+        },
+        {
+            "pergunta": "Em que ano foi lançado 'Super Mario Bros.'?",
+            "alternativas": [
+                "1983",
+                "1984",
+                "1985",
+                "1986"
+            ],
+            "resposta": "1985"
+        },
+        {
+            "pergunta": "Quem foi o imperador francês famoso por suas conquistas?",
+            "alternativas": [
+                "Luís XIV",
+                "Napoleão",
+                "Carlos Magno",
+                "Robespierre"
+            ],
+            "resposta": "Napoleão"
+        },
+        {
+            "pergunta": "Em que ano caiu o Muro de Berlim?",
+            "alternativas": [
+                "1987",
+                "1988",
+                "1989",
+                "1990"
+            ],
+            "resposta": "1989"
+        },
+        {
+            "pergunta": "Quantos planetas existem no Sistema Solar?",
+            "alternativas": [
+                "7",
+                "8",
+                "9",
+                "10"
+            ],
+            "resposta": "8"
         }
     ]
 }
