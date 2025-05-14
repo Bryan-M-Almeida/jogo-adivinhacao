@@ -1,3 +1,4 @@
+/* RESET */
 * {
     margin: 0;
     padding: 0;
@@ -11,21 +12,24 @@ body {
     font-family: 'Segoe UI', sans-serif;
     padding: 20px;
     overflow-x: hidden;
+    position: relative;
 }
 
+/* BARRA DE VIDA */
 .vida-container {
-    width: 100%;
-    border: #000 1px solid;
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 90%;
     max-width: 400px;
-    height: 5%;
+    height: 30px;
     background: #251f3d;
+    border: 1px solid #000;
     border-radius: 15px;
     overflow: hidden;
-    margin-bottom: 20px;
     box-shadow: 0 0 10px #000;
-    top: 90vh;
-    left: 35vw;
-    position: relative;
+    z-index: 1000;
 }
 
 .vida {
@@ -35,18 +39,19 @@ body {
     text-align: center;
     font-weight: bold;
     letter-spacing: 10px;
-    font-size: 1.5em;
+    font-size: 1.2em;
     background: linear-gradient(90deg, #ff2f92, #ff00d4);
     transition: width 0.3s ease;
     box-shadow: inset 0 0 10px #ff00d4;
 }
 
+/* QUESTÃO */
 .questao-container {
-    width: auto;
-    height: auto;
     display: flex;
     justify-content: center;
     padding: 30px;
+    margin-top: 80px;
+    /* espaço para a pontuação e placar */
 }
 
 .questao {
@@ -78,6 +83,7 @@ body {
     cursor: default;
 }
 
+/* RESPOSTAS */
 .respostas-container {
     width: 100%;
     max-width: 700px;
@@ -121,16 +127,17 @@ body {
 
 .resposta.certa {
     background: linear-gradient(145deg, #00c9ff, #92fe9d) !important;
-    color: #000000 !important;
+    color: #000 !important;
 }
 
 .resposta.errada {
     background: linear-gradient(145deg, #ff1744, #ff616f) !important;
-    color: #ffffff !important;
+    color: #fff !important;
 }
 
+/* PONTUAÇÃO */
 .pontos-container {
-    position: absolute;
+    position: fixed;
     top: 20px;
     right: 20px;
     background: linear-gradient(135deg, #2e003e, #5d0067);
@@ -152,6 +159,7 @@ body {
     letter-spacing: 2px;
 }
 
+/* PLACAR */
 .placar-container {
     position: fixed;
     bottom: 20px;
@@ -189,4 +197,41 @@ body {
 .erros {
     color: #ff3366;
     text-shadow: 0 0 5px #ff3366;
+}
+
+/* RESPONSIVO */
+@media (max-width: 500px) {
+    .vida-container {
+        height: 25px;
+        border-radius: 10px;
+    }
+
+    .vida {
+        font-size: 1em;
+        letter-spacing: 5px;
+    }
+
+    .questao-container {
+        flex-direction: column;
+        padding: 20px 10px;
+        margin-top: 140px;
+        /* espaço extra pra placar + pontos */
+    }
+
+    .respostas-container {
+        grid-template-columns: 1fr;
+        padding: 20px 10px;
+    }
+
+    .placar-container {
+        top: 20px;
+        bottom: auto;
+        left: 20px;
+        flex-direction: column;
+    }
+
+    .pontos-container {
+        top: 20px;
+        right: 20px;
+    }
 }

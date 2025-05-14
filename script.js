@@ -52,7 +52,6 @@ fetch('jogo.json')
 
 
                         if (vidaAtual > 0 && vidaAtual < 66) {
-
                             /* vida */
                             vidaAtual += 25;
                             vida.innerHTML = vidaAtual;
