@@ -7,21 +7,24 @@
 body {
     width: 100%;
     min-height: 100vh;
-    background: #111;
+    background: #0e0a1f;
     font-family: 'Segoe UI', sans-serif;
     padding: 20px;
     overflow-x: hidden;
 }
 
 .vida-container {
-    width: auto;
+    width: 100%;
+    border: #000 1px solid;
     max-width: 400px;
-    height: 30px;
-    background: #333;
+    height: 5%;
+    background: #251f3d;
     border-radius: 15px;
     overflow: hidden;
     margin-bottom: 20px;
     box-shadow: 0 0 10px #000;
+    top: 90vh;
+    left: 35vw;
     position: relative;
 }
 
@@ -33,9 +36,9 @@ body {
     font-weight: bold;
     letter-spacing: 10px;
     font-size: 1.5em;
-    background: linear-gradient(90deg, #00ff00, #009900);
+    background: linear-gradient(90deg, #ff2f92, #ff00d4);
     transition: width 0.3s ease;
-    box-shadow: inset 0 0 10px #00ff00;
+    box-shadow: inset 0 0 10px #ff00d4;
 }
 
 .questao-container {
@@ -47,24 +50,22 @@ body {
 }
 
 .questao {
-    background: linear-gradient(135deg, #1e1e2f, #2d2d44);
+    background: linear-gradient(135deg, #1a103b, #2c165c);
     color: #fff;
     padding: 30px 40px;
     border-radius: 20px;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 20px rgba(255, 0, 200, 0.3);
     max-width: 700px;
     width: 100%;
     text-align: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-
-
 .questao h1 {
     font-size: 2.2rem;
     margin: 0;
     font-weight: bold;
-    background: linear-gradient(90deg, #00ffff, #00ff88);
+    background: linear-gradient(90deg, #7a00ff, #ff00cc);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -73,7 +74,7 @@ body {
 .questao:hover {
     transform: scale(1.02);
     font-size: 2.3em;
-    box-shadow: 0 0 30px rgba(0, 0, 0, 0.7);
+    box-shadow: 0 0 30px rgba(255, 0, 200, 0.5);
     cursor: default;
 }
 
@@ -82,16 +83,16 @@ body {
     max-width: 700px;
     margin: 40px auto;
     padding: 25px;
-    background: linear-gradient(145deg, #10101A, #1A1A2F);
+    background: linear-gradient(145deg, #1d1430, #281c47);
     border-radius: 20px;
-    box-shadow: 0 0 30px rgba(0, 255, 128, 0.1);
+    box-shadow: 0 0 30px rgba(138, 43, 226, 0.2);
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 20px;
 }
 
 .respostas-container button {
-    background: linear-gradient(145deg, #2A2A40, #3A3A55);
+    background: linear-gradient(145deg, #35145e, #4a1b7b);
     color: #fff;
     border: none;
     padding: 18px 25px;
@@ -102,29 +103,29 @@ body {
     backdrop-filter: blur(6px);
     cursor: pointer;
     letter-spacing: 0.5px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 4px 12px rgba(255, 0, 200, 0.3);
     position: relative;
     overflow: hidden;
 }
 
 .respostas-container button:hover {
     transform: scale(1.05);
-    background: linear-gradient(145deg, #404060, #505070);
-    color: #00ffcc;
+    background: linear-gradient(145deg, #5a2fa0, #7a3dd1);
+    color: #ffd6f9;
 }
 
 .respostas-container button:active {
     transform: scale(0.96);
-    filter: brightness(1.1);
+    filter: brightness(1.2);
 }
 
 .resposta.certa {
-    background: linear-gradient(145deg, #00c853, #00e676) !important;
-    color: #ffffff !important;
+    background: linear-gradient(145deg, #00c9ff, #92fe9d) !important;
+    color: #000000 !important;
 }
 
 .resposta.errada {
-    background: linear-gradient(145deg, #d32f2f, #f44336) !important;
+    background: linear-gradient(145deg, #ff1744, #ff616f) !important;
     color: #ffffff !important;
 }
 
@@ -132,10 +133,10 @@ body {
     position: absolute;
     top: 20px;
     right: 20px;
-    background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+    background: linear-gradient(135deg, #2e003e, #5d0067);
     padding: 15px 25px;
     border-radius: 15px;
-    box-shadow: 0 0 15px rgba(0, 255, 128, 0.3);
+    box-shadow: 0 0 15px rgba(255, 0, 200, 0.3);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -145,8 +146,47 @@ body {
 .pontos {
     font-size: 2.5em;
     font-weight: bold;
-    color: #00ff99;
-    text-shadow: 0 0 10px #00ff99, 0 0 20px #00ff99;
+    color: #ff99ff;
+    text-shadow: 0 0 10px #ff00cc, 0 0 20px #ff00cc;
     font-family: 'Orbitron', sans-serif;
     letter-spacing: 2px;
+}
+
+.placar-container {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    z-index: 1000;
+    background: rgba(25, 10, 45, 0.8);
+    padding: 15px 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(255, 0, 200, 0.2);
+    backdrop-filter: blur(10px);
+}
+
+.acertos-container,
+.erros-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1.4em;
+    font-weight: bold;
+}
+
+.label {
+    color: #ccc;
+}
+
+.acertos {
+    color: #00ffcc;
+    text-shadow: 0 0 5px #00ffcc;
+}
+
+.erros {
+    color: #ff3366;
+    text-shadow: 0 0 5px #ff3366;
 }

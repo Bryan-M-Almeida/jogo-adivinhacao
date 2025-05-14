@@ -11,12 +11,13 @@ const respostas = document.querySelectorAll(".resposta");
 /* pontuação */
 const pontos = document.querySelector(".pontos");
 
-/* contador */
-const acertos = 0;
+/* acertos */
+const certos = document.querySelector(".acertos");
 
+/* erros */
+const erro = document.querySelector(".erros")
 /* questão */
-let questaoIndex = 0;
-
+let questaoIndex = Math.floor(Math.random()*35);
 
 
 fetch('jogo.json')
@@ -26,24 +27,37 @@ fetch('jogo.json')
 
         respostas.forEach(botao => {
             botao.addEventListener("click", function () {
+
                 const clicado = this.innerText;
                 const respostaCorreta = data.questoes[questaoIndex].resposta;
 
                 if (vida.innerHTML > 0) {
                     if (clicado === respostaCorreta) {
                         this.classList.add("certa");
-                        let score = Math.floor(Math.random() * 10)
-                        let vidaAtual = parseInt(vida.innerHTML);
 
+                        /* pontuação */
+                        let score = Math.floor(Math.random() * 10)
                         let pontoAtual = parseInt(pontos.innerHTML);
                         pontoAtual += score;
                         pontos.innerHTML = pontoAtual;
+
+                        /* vida */
+                        let vidaAtual = parseInt(vida.innerHTML);
+
+                        /* acertos */
+                        let acertos = 0;
+                        let acertosAtuais = parseInt(certos.innerHTML);
+                        acertosAtuais += 1;
+                        certos.innerHTML = acertosAtuais;
+
+
                         if (vidaAtual > 0 && vidaAtual < 66) {
 
-
-                            vidaAtual += 35;
+                            /* vida */
+                            vidaAtual += 25;
                             vida.innerHTML = vidaAtual;
                         }
+
                         respostas.forEach(btn => {
                             btn.disabled = true;
                         });
@@ -53,6 +67,10 @@ fetch('jogo.json')
 
 
                     else {
+                        let erros = 0;
+                        let errosAtuais = parseInt(erro.innerHTML);
+                        errosAtuais += 1;
+                        erro.innerHTML = errosAtuais;
                         this.classList.add("errada");
                         this.disabled = true;
                         let vidaAtual = parseInt(vida.innerHTML);
@@ -65,6 +83,11 @@ fetch('jogo.json')
     });
 
 function carregarQuestao(index, data) {
+    if (index > 34) {
+        index -= 34;
+    } else if  (index < 0) {
+        index+=34;
+    }
     questao.innerHTML = data.questoes[index].pergunta;
     respostas.forEach((element, i) => {
         element.innerHTML = data.questoes[index].alternativas[i];
